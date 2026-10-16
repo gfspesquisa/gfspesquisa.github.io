@@ -1,5 +1,3 @@
-# Seu perfil — aparece na página inicial, em "Sobre" e em "Equipe".
-# Pode ser editado pelo painel (/admin) em "Equipe".
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
@@ -8,18 +6,19 @@ name:
   given: Gabriel Felix
   family: da Silva
 role: Graduando em Engenharia Agronômica
-bio: |
+bio: |-
   Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira
   (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem
   ser aliados de uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo
   de cogumelos como biofertilizante a bioinsumos microbianos e compostos naturais com ação
   antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio
   do CNPq e da UK Research and Innovation.
-
+user_groups:
+  - Pesquisador responsável
+foto: me.jpg
 affiliations:
   - name: FEIS/UNESP — Faculdade de Engenharia de Ilha Solteira
     url: https://www.feis.unesp.br/
-
 links:
   - icon: at-symbol
     url: mailto:gabriel-felix.silva@unesp.br
@@ -31,42 +30,35 @@ links:
   - icon: brands/instagram
     url: https://linktr.ee/gfspesquisa
     label: Instagram e links
-  # Para mostrar o Lattes, apague o "#" das duas linhas abaixo e coloque o seu endereço:
-  # - icon: academicons/lattes
-  #   url: http://lattes.cnpq.br/0000000000000000
-
 interests:
   - Micologia e fitopatologia
   - Microbiologia do solo
   - Bioinsumos
   - Produtos naturais antifúngicos
   - Agricultura sustentável
-
 education:
   - degree: Bacharelado em Engenharia Agronômica
     institution: FEIS/UNESP — Ilha Solteira, SP
-    end: Previsão 2026     # quando concluir, troque por uma data, ex.: 2026-12-15
+    end: Previsão 2026
   - degree: Técnico em Produção Animal e Vegetal
     institution: ETEC — Votuporanga, SP
-    end: Concluído         # pode trocar pela data de conclusão, ex.: 2019-12-15
+    end: Concluído
   - degree: Técnico em Agrimensura
     institution: ETEC — Votuporanga, SP
-    end: Concluído         # pode trocar pela data de conclusão, ex.: 2019-12-15
-
+    end: Concluído
 experience:
   - role: Iniciação científica
     org: FEIS/UNESP
-    summary: |
+    summary: |-
       Pesquisa em micologia, fitopatologia, microbiologia do solo e química de produtos
       naturais, em projetos com colaboradores nacionais e internacionais.
   - role: Consultor em Manejo Integrado de Pragas
     org: PRO-MIP
-    summary: |
+    summary: |-
       Consultoria em Manejo Integrado de Pragas (MIP) para algodão, milho e soja, com colegas
       de graduação da FEIS/UNESP.
   - role: Representante discente
     org: Comissão Local de Permanência Estudantil (CLPE) — FEIS/UNESP
-
 skills:
   - name: Análise de dados
     items:
@@ -78,7 +70,3 @@ skills:
       - label: Ensaios antifúngicos in vitro
       - label: Cultivo de cogumelos
       - label: Manejo Integrado de Pragas
-
-# Grupo em que você aparece na página "Equipe"
-user_groups:
-  - Pesquisador responsável
