@@ -1,0 +1,51 @@
+# Traduções que faltam (ou estão em inglês) no tema Hugo Blox
+- id: home
+  translation: Início
+- id: close
+  translation: Fechar
+- id: languages
+  translation: Idiomas
+- id: edit_page
+  translation: Editar esta página
+- id: theme_light
+  translation: Claro
+- id: theme_dark
+  translation: Escuro
+- id: theme_auto
+  translation: Automático
+- id: btn_site
+  translation: Site
+- id: btn_copied
+  translation: Copiado
+- id: btn_download
+  translation: Baixar
+- id: blog
+  translation: Notícias
+- id: authors
+  translation: Autores
+- id: awards
+  translation: Prêmios
+- id: funding
+  translation: Financiamento
+- id: license
+  translation: Licença
+- id: status
+  translation: Situação
+- id: peer_reviewed
+  translation: Revisado por pares
+- id: open_access
+  translation: Acesso aberto
+- id: award_level_winner
+  translation: Vencedor
+- id: award_level_runner_up
+  translation: Segundo lugar
+- id: award_level_honorable_mention
+  translation: Menção honrosa
+- id: award_level_nominee
+  translation: Indicado
+- id: award_level_selected
+  translation: Selecionado
+- id: award_level_featured
+  translation: Destaque
+- id: pub_paper_conference
+  translation: Trabalho em evento

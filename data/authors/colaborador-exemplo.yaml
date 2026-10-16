@@ -1,0 +1,21 @@
+# MODELO — substitua pelos dados de um colaborador real ou apague este arquivo.
+# Cada pessoa da equipe é um arquivo .yaml nesta pasta (data/authors/).
+# A foto vai em assets/media/authors/ com o mesmo nome do "slug" (ex.: colaborador-exemplo.jpg).
+schema: hugoblox/author/v1
+slug: colaborador-exemplo
+name:
+  display: Nome do(a) Colaborador(a)
+  given: Nome
+  family: Colaborador
+role: Orientador(a) / Coorientador(a) / Colega de laboratório
+bio: Uma ou duas frases sobre a pessoa e o que ela faz no grupo.
+affiliations:
+  - name: Instituição
+interests:
+  - Área de pesquisa 1
+  - Área de pesquisa 2
+links:
+  - icon: at-symbol
+    url: mailto:email@exemplo.com
+user_groups:
+  - Colaboradores
