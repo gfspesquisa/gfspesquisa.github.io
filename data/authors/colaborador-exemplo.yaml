@@ -1,21 +1,67 @@
-# MODELO — substitua pelos dados de um colaborador real ou apague este arquivo.
-# Cada pessoa da equipe é um arquivo .yaml nesta pasta (data/authors/).
-# A foto vai em assets/media/authors/ com o mesmo nome do "slug" (ex.: colaborador-exemplo.jpg).
 schema: hugoblox/author/v1
-slug: colaborador-exemplo
+slug: ana-maria
+is_owner: false
 name:
-  display: Nome do(a) Colaborador(a)
-  given: Nome
-  family: Colaborador
-role: Orientador(a) / Coorientador(a) / Colega de laboratório
-bio: Uma ou duas frases sobre a pessoa e o que ela faz no grupo.
-affiliations:
-  - name: Instituição
-interests:
-  - Área de pesquisa 1
-  - Área de pesquisa 2
-links:
-  - icon: at-symbol
-    url: mailto:email@exemplo.com
+  display: Ana Maria Rodrigues Cassiolato
+  given: Ana MARIA
+  family: Rodrigues Cassiolato
+role: Orientadora
+bio: Orientadora principal dos projetos de pesquisas desenvolvidas em Fungicultura e Meliponicutura na área da microbiologia.
 user_groups:
-  - Colaboradores
+  - Orientação
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/#!/defers
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/7348513258586777
+interests:
+  - Microbiologia e Bioquímica do Solo
+  - Indices biológicos para qualidade do solo
+  - Recuperação de área degradadas
+  - Simbioses e associações em microrganismos e plantas
+education:
+  - degree: Doutorado em Agronomia (Genética e Melhoramento de Plantas).
+    institution: Universidade de São Paulo, USP, Brasil.
+    start: '1988'
+    end: '1995'
+    summary: |-
+      Título: Parasitismo de Sclerotinia sclerotiorum (Lib.) de Bary por mutantes de Trichoderma harzianum Rifai, Ano de obtenção: 1995.
+      Orientador: Itamar Soares de Melo.
+      Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+      Palavras-chave: Controle biológico; melhoramento; alface; podridão branca.
+      Grande área: Ciências Agrárias / Área: Agronomia / Subárea: Ciência do Solo / Especialidade: Microbiologia e Bioquímica do Solo.
+      Setores de atividade: Produção Vegetal.
+  - degree: Mestrado em Agronomia (Microbiologia Agrícola).
+    institution: Universidade de São Paulo, USP, Brasil.
+    start: '1984'
+    end: '1988'
+    summary: |-
+      Título: Reação de Resistência do Tomate (Lycopersicum spp.) à Rhizoctonia solani KUHN e Interações com Fungos Micorrízicos Vesículo-arbusculares, Ano de Obtenção: 1988.
+      Orientador: Itamar Soares de Melo.
+      Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+      Palavras-chave: Controle biológico; tomate; tombamento.
+      Grande área: Ciências Agrárias / Área: Agronomia / Subárea: Ciência do Solo / Especialidade: Microbiologia e Bioquímica do Solo.
+      Setores de atividade: Produção Vegetal.
+  - degree: Especialização em Programa RHAE, Sub-Programa Biotecnologia.
+    institution: Colorado State University System, CSU, Estados Unidos.
+    start: '1992'
+    end: '1992'
+    summary: |-
+      ítulo: Estudos genéticos e fusão de protoplastos em linhagem de Trichoderma harzianum e controle integrado de Sclerotinia sclerotiorum, em alface.
+      Orientador: Dr. Ralph Baker.
+      Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+  - degree: Graduação em Ciências Biológicas
+    institution: Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, Brasil.
+    start: '1979'
+    end: '1984'
+    summary: |-
+      Título: Fixação Biológica do Nitrogênio Atmosférico.
+      Orientador: Augusto Ferreira da Eira.
+  - degree: Graduação em Ciências Biológicas
+    institution: Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, Brasil.
+    start: '1979'
+    end: '1983'
+    summary: |-
+      Título: Avaliação de cepas de Rhizobium sp. inoculadas em progênies de amendoim (*Arachis hypogaea*)L. de cv. Tatu.
+      Orientador: Maurício Dutra Zanotto.
