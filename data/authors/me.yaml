@@ -7,11 +7,7 @@ name:
   family: da Silva
 role: Graduando em Engenharia Agronômica
 bio: |-
-  Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira
-  (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem
-  ser aliados de uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo
-  de cogumelos como biofertilizante a bioinsumos microbianos e compostos naturais com ação
-  antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio
+  Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem ser aliados de uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo de cogumelos como ]biofertilizante a bioinsumos microbianos e compostos naturais com ação antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio
   do CNPq e da UK Research and Innovation.
 user_groups:
   - Pesquisador responsável
@@ -21,7 +17,7 @@ affiliations:
     url: https://www.feis.unesp.br/
 links:
   - icon: at-symbol
-    url: mailto:gabriel-felix.silva@unesp.br
+    url: mailto:gfspesquisa@gmail.com
     label: E-mail
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/gabriel-felixBR/
@@ -39,15 +35,18 @@ interests:
 education:
   - degree: Bacharelado em Engenharia Agronômica
     institution: FEIS/UNESP — Ilha Solteira, SP
-    end: Previsão 2026
+    start: '2022'
+    end: Previsão 2028
   - degree: Técnico em Produção Animal e Vegetal
     institution: ETEC — Votuporanga, SP
+    start: 2018-02
     end: Concluído
   - degree: Técnico em Agrimensura
     institution: ETEC — Votuporanga, SP
+    start: 2019-07
     end: Concluído
 experience:
-  - role: Iniciação científica
+  - role: Vivência Acadêmica
     org: FEIS/UNESP
     summary: |-
       Pesquisa em micologia, fitopatologia, microbiologia do solo e química de produtos
@@ -59,6 +58,7 @@ experience:
       de graduação da FEIS/UNESP.
   - role: Representante discente
     org: Comissão Local de Permanência Estudantil (CLPE) — FEIS/UNESP
+    start: 2023-09
 skills:
   - name: Análise de dados
     items:
@@ -67,6 +67,6 @@ skills:
       - label: Estatística experimental (ANOVA, Tukey, PCA)
   - name: Laboratório e campo
     items:
-      - label: Ensaios antifúngicos in vitro
+      - label: Ensaios antifúngicos in vitro (MIC)
       - label: Cultivo de cogumelos
-      - label: Manejo Integrado de Pragas
+      - label: Adubação orgânica e mineral
