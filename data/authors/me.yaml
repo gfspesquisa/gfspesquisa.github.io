@@ -46,19 +46,31 @@ education:
     start: 2019-07
     end: Concluído
 experience:
-  - role: Vivência Acadêmica
+  - role: Vivência Acadêmica - Laboratório Microbiologia
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: 2023-07
+    summary: Introdução ao ensino na área do conhecimento em Microbiologia e Bioquímica do Solo voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Ana Maria Rodrigues Cassiolato.
+  - role: Vivência Acadêmica - Laboratorio Fitopatologia Molecular
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Fitopatologia voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão do professor Dr. Paulo Cezar Ceresini.
+  - role: Vivência Acadêmica - Laboratório Física do Solo
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Fertilidade do Solo e Adubação voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Angélica Cristina Fernandes Deus.
+  - role: Vivência Acadêmica - Bionanomateriais do bioma brasileiro (GB3)
+    org: FEIS-UNESP Departamento Fisico-Químico
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Química dos Produtos Naturais voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Ligia Maria Manzine Costa.
+  - role: Representante discente Comissão Local de Permanência Estudantil (CLPE)
     org: FEIS/UNESP
-    summary: |-
-      Pesquisa em micologia, fitopatologia, microbiologia do solo e química de produtos
-      naturais, em projetos com colaboradores nacionais e internacionais.
-  - role: Consultor em Manejo Integrado de Pragas
-    org: PRO-MIP
-    summary: |-
-      Consultoria em Manejo Integrado de Pragas (MIP) para algodão, milho e soja, com colegas
-      de graduação da FEIS/UNESP.
-  - role: Representante discente
-    org: Comissão Local de Permanência Estudantil (CLPE) — FEIS/UNESP
     start: 2023-09
+    summary: Conselhos, Comissões e Consultoria, Faculdade de Engenharia de Ilha Solteira.
+  - role: Vivência Acdêmica - Herbário de Ilha Solteira (HISA)
+    org: FEIS - UNESP - Deparatamneto de biologia e Zootecnia
+    start: 2023-06
+    end: 2024-05
+    summary: Introdução ao ensino na área do conhecimento em Taxonomia de Fanerógamos voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Andréia Alves Rezende.
 skills:
   - name: Análise de dados
     items:
