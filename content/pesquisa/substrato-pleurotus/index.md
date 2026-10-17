@@ -1,13 +1,12 @@
 ---
-title: Do cogumelo ao adubo — substrato pós-cultivo de Pleurotus ostreatus
-summary: Caracterização nutricional do substrato que sobra do cultivo do cogumelo-ostra para uso como biofertilizante.
+title: Utilização de resíduos como substitutos de insumos e corretivos do solo
+summary: Caracterização nutricional do composto que sobra do cultivo do cogumelo-ostra para uso como biofertilizante.
 date: 2026-01-01
 weight: 1
 tags:
   - Economia circular
   - Pleurotus ostreatus
   - Biofertilizantes
-links: []
 ---
 
 Depois da colheita do cogumelo-ostra (*Pleurotus ostreatus*), sobra um grande volume de substrato
