@@ -8,7 +8,7 @@ date: 2025-11-01
 publication_types:
   - paper-conference
 publication:
-  name: Anais do 33º Congresso Brasileiro de Microbiologia 2025
+  name: 33º Congresso Brasileiro de Microbiologia 2025/MICROBIOLOGIA DE ALIMENTOS - 1st FoodMicro Latino
   volume: '33'
   issue: 204/2863-0
   pages: '1'
