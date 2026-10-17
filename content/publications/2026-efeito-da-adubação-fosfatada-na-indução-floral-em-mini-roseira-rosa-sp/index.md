@@ -16,7 +16,7 @@ publication:
 links:
   - type: source
     url: https://www.even3.com.br/anais/cbfpo-625187/1361650-efeito-da-adubacao-fosfatada-na-inducao-floral-em-mini-roseira-(rosa-sp)/#:~:text=https%3A//www.even3.com.br/anais/cbfpo%2D625187/1361650%2Defeito%2Dda%2Dadubacao%2Dfosfatada%2Dna%2Dinducao%2Dfloral%2Dem%2Dmini%2Droseira%2D(rosa%2Dsp)
-  - type: source
+  - type: video
     url: https://www.youtube.com/watch?v=xsjFBhrj_2o
 abstract: |2-
    Com técnicas adequadas de adubação as mini roseiras podem ser utilizadas não somente como planta ornamental, mas também como produtora de botões florais para corte. O objetivo do experimento foi avaliar doses de fósforo (P) no desenvolvimento dos botões florais da mini-roseira (Rosa sp). O ensaio foi realizado em casa de vegetação na Faculdade de Engenharia de Ilha Solteira, em vasos de 3 litros com avaliaçao de diâmetro botão floral, comprimento haste floral (cm) e número de botões por planta com teste realizados . Os tratamentos foram quatro doses de fósforo 0, 70, 100 e 130% da dose recomendada de P para roseiras segundo a recomendação do Boletim 100 do estado de São Paulo, correspondendo a 0, 315, 450 e 585 mg/kg de P2O5, utilizando como fonte o superfosfato simples. Cada tratamento teve 12 repetições. Os parâmetros de florescimento foram avaliados 74 dias após aplicação dos tratamentos. As doses de fósforo influenciaram significativamente o número de botões, diâmetro dos botões e o comprimento da haste floral. A média geral foi de 1 botão por vaso com aplicação de P e
