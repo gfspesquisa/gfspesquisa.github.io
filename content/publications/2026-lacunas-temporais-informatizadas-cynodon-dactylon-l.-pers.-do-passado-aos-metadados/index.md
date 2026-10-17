@@ -25,6 +25,8 @@ peer_reviewed: true
 open_access: true
 ---
 
+![](pasted-image-1792278093741.png "Lacunas temporais Informatizados: Cynodon dactylon (L.) Pers. do Passado aos Metadados")
+
 ###### Como Citar
 
 SILVA, Gabriel Felix da; CASSIOLATO, Ana Maria Rodrigues; APARECIDO, Camila Fernandes Ferreira; BONI, Thais Soto. LACUNAS TEMPORAIS INFORMATIZADAS: CYNODON DACTYLON (L.) PERS. DO PASSADO AOS METADADOS. **ANAIS DO FÓRUM DE INICIAÇÃO CIENTÍFICA DO UNIFUNEC**, Santa Fé do Sul, São Paulo, v. 16, n. 16, 2026. DOI: 10.24980/aficf.v16i16.7013. Disponível em: https://seer.unifunec.edu.br/index.php/forum/article/view/7013. Acesso em: (DD/MM/AAAA).
