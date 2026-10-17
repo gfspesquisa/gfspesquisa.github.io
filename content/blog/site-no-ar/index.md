@@ -6,6 +6,7 @@ authors:
   - me
 image:
   filename: pasted-image-1792280000940.png
+  caption: Departamento de Fitossanidade, Enegnharia Rural e Solos.
 tags:
   - Divulgação científica
 ---
