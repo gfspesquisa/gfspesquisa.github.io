@@ -77,7 +77,7 @@ skills:
       - label: R / RStudio
       - label: Python
       - label: Estatística experimental (ANOVA, Tukey, PCA)
-  - name: Laboratório e campo
+  - name: Laboratório e Campo
     items:
       - label: Ensaios antifúngicos in vitro (MIC)
       - label: Cultivo de cogumelos
