@@ -26,3 +26,5 @@ featured: false
 peer_reviewed: true
 open_access: true
 ---
+
+![](20261017-200318.png "Microorganisms Quantification Of Honeys From The Native Stingless Bees (Tetragonisca Angustula) L.")
