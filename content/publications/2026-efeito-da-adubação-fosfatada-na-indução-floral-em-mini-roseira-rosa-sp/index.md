@@ -35,6 +35,7 @@ abstract: |2-
   foi observado com o tratamento de 100% de P (1,63 cm), seguido das doses de 130% e
   de 70% P. Conclui-se que a adubação com P influencia a incidência, diâmetro e
   comprimento de botões e em hastes florais maiores.
+summary: Diferença entre doses de fósforo e resposta a caracteristicas desejáveis em flores de corte.
 tags:
   - flores de corte
   - flores ornamentais
