@@ -29,3 +29,5 @@ featured: true
 peer_reviewed: true
 open_access: true
 ---
+
+![](pasted-image-1792279281578.png "THE EXPANDED USE OF BIOFUNGICIDES AS A KEY STRATEGY TO MITIGATE AGRICULTURE-DRIVEN ANTIFUNGAL RESISTANCE IN Aspergillus fumigatos")
