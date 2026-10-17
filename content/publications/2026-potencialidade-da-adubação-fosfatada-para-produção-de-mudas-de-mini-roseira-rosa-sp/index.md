@@ -7,7 +7,7 @@ authors:
   - Thaís Soto Boni
   - Ana Maria Rodrigues Cassiolato
   - Angélica Cristina Fernandes Deus
-date: 2026-06-10
+date: 2026-06-01
 publication_types:
   - paper-conference
 publication:
