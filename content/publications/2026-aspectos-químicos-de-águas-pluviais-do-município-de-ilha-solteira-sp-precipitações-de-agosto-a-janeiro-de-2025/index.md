@@ -9,7 +9,7 @@ date: 2026-06-01
 publication_types:
   - paper-conference
 publication:
-  name: 16° FÓRUM DE INICIAÇÃO CIENTÍFICA DO UNIFUNEC
+  name: 16° FÓRUM DE INICIAÇÃO CIENTÍFICA DO UNIFUNEC/6º CONGRESSO INTERNACIONAL MULTIDISCIPLINAR UNIFUNEC
   volume: '16'
   issue: '16'
 doi: 10.24980/aficf.v16i16.7011
