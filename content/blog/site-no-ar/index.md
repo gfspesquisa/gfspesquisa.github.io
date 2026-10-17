@@ -4,6 +4,8 @@ summary: Um espaço para reunir minhas publicações, projetos de pesquisa e nov
 date: 2026-10-15
 authors:
   - me
+image:
+  filename: pasted-image-1792280000940.png
 tags:
   - Divulgação científica
 ---
