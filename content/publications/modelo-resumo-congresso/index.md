@@ -25,3 +25,5 @@ featured: false
 peer_reviewed: true
 open_access: true
 ---
+
+![](20261017-200425.png "Potential Of Papain In The Extraction Of Proteins From The Basidiomycete Pleurotus Ostreatus")
