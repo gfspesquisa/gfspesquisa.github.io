@@ -30,6 +30,8 @@ open_access: true
 
 ![](pasted-image-1792277737205.png "Aspectos Químicos de Áaguas Pluviais do Município de Ilha Solteria-SP: Precipitaçções de Agosto a Janeiro de 2025")
 
+![](gr%C3%A1fico%20isa.jpg "Água Pluvial Ilha Solteira-SP Agosto 2024 - Janeiro 2025")
+
 ###### Como Citar
 
 SILVA, Gabriel Felix da; CASSIOLATO, Ana Maria Rodrigues; COSTA, Ligia Maria Manzini; APARECIDO, Camila Fernandes Ferreira. ASPECTOS QUÍMICOS DE ÁGUAS PLUVIAIS DO MUNICÍPIO DE ILHA SOLTEIRA-SP: PRECIPITAÇÕES DE AGOSTO A JANEIRO DE 2025. **ANAIS DO FÓRUM DE INICIAÇÃO CIENTÍFICA DO UNIFUNEC**, Santa Fé do Sul, São Paulo, v. 16, n. 16, 2026. DOI: 10.24980/aficf.v16i16.7011. Disponível em: https://seer.unifunec.edu.br/index.php/forum/article/view/7011. Acesso em: (DD/MM/AAAA).
