@@ -83,6 +83,18 @@ Se os colaboradores acharem o token complicado, dá para ativar o login direto c
 
 ---
 
+## Site em dois idiomas (português e inglês)
+
+O site tem versão em **português** (`https://gfspesquisa.github.io/`) e em **inglês** (`https://gfspesquisa.github.io/en/`). O visitante troca de idioma pelo seletor no canto superior direito, e cada página leva à sua equivalente no outro idioma.
+
+**No painel**, cada item mostra os dois idiomas lado a lado:
+
+- **Pesquisa, Notícias, Equipe e Contato:** escreva o texto em português e depois em inglês. Campos como data, imagem e links são copiados sozinhos para o inglês.
+- **Publicações:** ficam no idioma original em que foram publicadas e aparecem iguais nas duas versões. Basta cadastrar uma vez.
+- **Equipe:** no campo "Grupo", use o nome em português na versão PT (ex.: Orientação) e o equivalente em inglês na versão EN (ex.: Supervision).
+
+**Nos arquivos**, a versão em inglês fica ao lado da portuguesa: `index.md` (PT) e `index.en.md` (EN); `sobre.md` e `sobre.en.md`. Os perfis em inglês ficam em `data/en/authors/`, e os menus em `config/_default/menus.pt.yaml` e `menus.en.yaml`.
+
 ## Primeiros ajustes no conteúdo
 
 - [ ] **Foto de perfil**: envie uma foto quadrada com o nome `me.jpg` para `assets/media/authors/` (no GitHub: *Add file → Upload files*, ou pelo painel no campo "Foto" do seu perfil, com o arquivo já renomeado para `me.jpg`).
@@ -107,13 +119,13 @@ Se comprar um domínio (ex.: `gabrielfelix.com.br`), configure em **Settings →
 
 | O quê | Arquivo |
 |---|---|
-| Seu perfil (bio, formação, experiência, links) | `data/authors/me.yaml` |
+| Seu perfil (bio, formação, experiência, links) | `data/authors/me.yaml` (PT) e `data/en/authors/me.yaml` (EN) |
 | Colaboradores | `data/authors/*.yaml` |
 | Página inicial (ordem das seções) | `content/_index.md` |
 | Publicações | `content/publications/<nome>/index.md` |
 | Projetos de pesquisa | `content/pesquisa/<nome>/index.md` |
 | Notícias | `content/blog/<nome>/index.md` |
-| Menu | `config/_default/menus.yaml` |
+| Menu | `config/_default/menus.pt.yaml` e `menus.en.yaml` |
 | Nome do site, cores e fontes | `config/_default/params.yaml` |
 | Configuração do painel | `static/admin/config.yml` |
 | Traduções de textos do tema | `i18n/pt-br.yaml` |
