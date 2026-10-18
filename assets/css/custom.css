@@ -3,3 +3,8 @@
   #nav-menu { gap: 1.1rem; }
   #nav-menu > li { margin: 0 !important; }
 }
+
+/* Página inicial: as quatro linhas de pesquisa lado a lado em telas grandes */
+@media (min-width: 1024px) {
+  #linhas .lg\:grid-cols-3 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}

@@ -7,6 +7,26 @@ design:
   spacing: '5rem'
 # Los datos de esta página vienen de data/es/authors/me.yaml (español), sobre data/authors/me.yaml.
 sections:
+  - block: resume-biography-3
+    content:
+      username: me
+      text: ''
+      button:
+        text: Ver publicaciones
+        url: /es/publicaciones/
+      headings:
+        about: 'Sobre mí'
+        education: 'Formación'
+        interests: 'Intereses'
+    design:
+      background:
+        gradient_mesh:
+          enable: true
+      name:
+        size: md
+      avatar:
+        size: medium
+        shape: circle
   - block: resume-experience
     content:
       username: me
