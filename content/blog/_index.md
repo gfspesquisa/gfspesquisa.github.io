@@ -1,4 +1,0 @@
----
-title: Notícias
-view: card
----
