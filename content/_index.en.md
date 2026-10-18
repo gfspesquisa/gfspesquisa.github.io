@@ -13,7 +13,7 @@ sections:
         badge:
           text: News
           color: green
-        text: I will present two studies at IUMS 2026 in Lisbon.
+        text: Three studies at IUMS 2026 in Lisbon.
         link:
           text: Read more
           url: news/2026-10-iums-2026-lisboa/

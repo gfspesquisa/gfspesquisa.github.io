@@ -13,7 +13,7 @@ sections:
         badge:
           text: Novedad
           color: green
-        text: Presentaré dos trabajos en el IUMS 2026, en Lisboa.
+        text: Tres trabajos en el IUMS 2026, en Lisboa.
         link:
           text: Más información
           url: noticias/2026-10-iums-2026-lisboa/
