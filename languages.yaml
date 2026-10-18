@@ -1,0 +1,24 @@
+# Idiomas do site — o português fica na raiz (/) e o inglês em /en/
+pt:
+  locale: pt-br
+  label: Português
+  weight: 1
+en:
+  locale: en-us
+  label: English
+  weight: 2
+  params:
+    hugoblox:
+      identity:
+        tagline: "Mycology, soil microbiology and bio-inputs"
+        description: "Research in mycology, plant pathology, soil microbiology and bio-inputs
+          for more sustainable agriculture. Agronomic Engineering — FEIS/UNESP, Brazil."
+  permalinks:
+    page:
+      publications: /publications/:contentbasename/
+      blog: /news/:contentbasename/
+      pesquisa: /research/:contentbasename/
+    section:
+      publications: /publications/
+      blog: /news/
+      pesquisa: /research/
