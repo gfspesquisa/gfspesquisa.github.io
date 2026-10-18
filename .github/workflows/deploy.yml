@@ -72,12 +72,29 @@ jobs:
     permissions:
       pages: write # to deploy to Pages
       id-token: write # to verify the deployment originates from an appropriate source
+      actions: read # to see whether GitHub's automatic branch build is still running
     # Deploy to the github-pages environment
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+    # Se o GitHub Pages estiver configurado como "Deploy from a branch", o GitHub também roda
+    # o "pages build and deployment" (Jekyll), que publica o README no lugar do site.
+    # Esperamos ele terminar para que o site do Hugo seja sempre o último a ser publicado.
+    - name: Wait for GitHub's automatic branch build (if any)
+      env:
+        GH_TOKEN: ${{ github.token }}
+      run: |
+        for i in $(seq 1 40); do
+          n=$(gh api "repos/${{ github.repository }}/actions/runs?head_sha=${{ github.sha }}" \
+                --jq '[.workflow_runs[] | select(.path | startswith("dynamic/pages")) | select(.status != "completed")] | length' || echo 0)
+          if [ "$n" = "0" ]; then break; fi
+          echo "Aguardando o build automático do GitHub terminar ($i)..."
+          sleep 10
+        done
+        sleep 10
+
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
