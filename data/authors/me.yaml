@@ -5,15 +5,13 @@ name:
   display: Gabriel Felix da Silva
   given: Gabriel Felix
   family: da Silva
-role: Graduando em Engenharia Agronômica
-bio: |-
-  Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem ser aliados de uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo de cogumelos como ]biofertilizante a bioinsumos microbianos e compostos naturais com ação antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio
-  do CNPq e da UK Research and Innovation.
+role: Undergraduate Student in Agricultural Engineering
+bio: 'I am an undergraduate student in Agricultural Engineering at the Ilha Solteira School of Engineering (FEIS/UNESP). My research aims to understand how fungi and other microorganisms can contribute to more sustainable agriculture: from the use of post-cultivation mushroom substrate as a biofertilizer to microbial bio-inputs and natural compounds with antifungal properties. I participate in projects with national and international collaborators, with support from CNPq and UK Research and Innovation.'
 user_groups:
   - Pesquisador responsável
 foto: me.jpg
 affiliations:
-  - name: FEIS/UNESP — Faculdade de Engenharia de Ilha Solteira
+  - name: FEIS/UNESP — Ilha Solteira School of Engineering
     url: https://www.feis.unesp.br/
 links:
   - icon: at-symbol
@@ -33,15 +31,15 @@ interests:
   - Produtos naturais antifúngicos
   - Agricultura sustentável
 education:
-  - degree: Bacharelado em Engenharia Agronômica
+  - degree: Bachelor's Degree in Agricultural Engineering
     institution: FEIS/UNESP — Ilha Solteira, SP
     start: '2022'
     end: Previsão 2028
-  - degree: Técnico em Agropecuária
+  - degree: Agricultural Technician
     institution: ETEC — Votuporanga, SP
     start: 2018-02
     end: Concluído
-  - degree: Técnico em Agrimensura
+  - degree: Surveying Technician
     institution: ETEC — Votuporanga, SP
     start: 2019-07
     end: Concluído
