@@ -1,0 +1,369 @@
+# ════════════════════════════════════════════════════════════════════
+# PAINEL DE EDIÇÃO (Sveltia CMS) — acesse em SEU-SITE/admin/
+# Só consegue salvar quem for colaborador do repositório no GitHub.
+# ════════════════════════════════════════════════════════════════════
+
+backend:
+  name: github
+  repo: gfspesquisa/gfspesquisa.github.io
+  branch: main
+  # Opcional: botão "Entrar com GitHub" (sem token). Veja o passo 7 do LEIA-ME.
+  # base_url: https://sveltia-cms-auth.gfspesquisa.workers.dev
+
+# Onde ficam as imagens enviadas pelo painel (quando não ficam junto da página)
+media_folder: static/uploads
+public_folder: /uploads
+
+output:
+  omit_empty_optional_fields: true   # não grava campos opcionais vazios
+
+# Nomes de pastas sem acentos nem símbolos (evita erros no Windows)
+slug:
+  encoding: ascii
+  clean_accents: true
+
+# Dois idiomas: português (padrão, arquivo index.md) e inglês (arquivo index.en.md)
+i18n:
+  structure: multiple_files
+  locales: [pt, en]
+  default_locale: pt
+  omit_default_locale_from_file_path: true
+
+collections:
+
+  # ──────────────────────────────────────────────────────────────────
+  # PUBLICAÇÕES — ficam no idioma original. O painel copia tudo
+  # automaticamente para a versão em inglês do site (campos "duplicate").
+  - name: publicacoes
+    label: Publicações
+    label_singular: Publicação
+    description: Resumos em congressos, artigos, capítulos e demais trabalhos (no idioma original; aparecem nas duas versões do site).
+    folder: content/publications
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    i18n: true
+    slug: '{{year}}-{{slug}}'
+    summary: '{{date | date("YYYY")}} — {{title}}'
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Título, widget: string, i18n: duplicate }
+      - name: authors
+        label: Autores (na ordem da publicação)
+        hint: Escreva "me" para você mesmo (puxa o seu perfil). Os demais, pelo nome.
+        widget: list
+        default: [me]
+        i18n: duplicate
+        field: { name: autor, label: Autor, widget: string }
+      - { name: date, label: Data da publicação, widget: datetime, type: date, format: 'YYYY-MM-DD', i18n: duplicate }
+      - name: publication_types
+        label: Tipo
+        widget: select
+        multiple: true
+        max: 1
+        default: [paper-conference]
+        i18n: duplicate
+        options:
+          - { label: Trabalho/resumo em evento, value: paper-conference }
+          - { label: Artigo em periódico, value: article-journal }
+          - { label: Capítulo de livro, value: chapter }
+          - { label: Livro, value: book }
+          - { label: Relatório técnico, value: report }
+          - { label: 'Tese, dissertação ou TCC', value: thesis }
+          - { label: Preprint, value: article }
+          - { label: Patente, value: patent }
+      - name: publication
+        label: Onde foi publicado
+        widget: object
+        i18n: duplicate
+        fields:
+          - { name: name, label: Nome do evento ou da revista, widget: string }
+          - { name: volume, label: Volume, widget: string, required: false }
+          - { name: issue, label: Número, widget: string, required: false }
+          - { name: pages, label: Páginas, widget: string, required: false }
+      - name: hugoblox
+        label: Identificadores
+        widget: object
+        required: false
+        collapsed: true
+        i18n: duplicate
+        fields:
+          - name: ids
+            label: Identificadores
+            widget: object
+            required: false
+            fields:
+              - { name: doi, label: DOI, hint: 'Somente o código, ex.: 10.1234/abcd.2026.001 (sem https://doi.org/). Gera o botão DOI.', widget: string, required: false }
+      - name: links
+        label: Links para a fonte original
+        hint: Só adicione links com endereço preenchido.
+        widget: list
+        required: false
+        i18n: duplicate
+        summary: '{{fields.type}} — {{fields.url}}'
+        fields:
+          - name: type
+            label: Tipo de link
+            widget: select
+            default: source
+            options:
+              - { label: Página original / anais, value: source }
+              - { label: PDF, value: pdf }
+              - { label: Pôster, value: poster }
+              - { label: Slides, value: slides }
+              - { label: Dados, value: dataset }
+              - { label: Código, value: code }
+              - { label: Vídeo, value: video }
+          - { name: url, label: Endereço (URL), widget: string, type: url }
+      - { name: abstract, label: Resumo, widget: text, required: false, i18n: duplicate }
+      - { name: summary, label: Frase curta (aparece nas listas), widget: string, required: false, i18n: duplicate }
+      - { name: tags, label: Palavras-chave, widget: list, required: false, i18n: duplicate }
+      - { name: featured, label: Destacar na página inicial, widget: boolean, default: false, i18n: duplicate }
+      - { name: peer_reviewed, label: Revisado por pares, widget: boolean, default: true, i18n: duplicate }
+      - { name: open_access, label: Acesso aberto, widget: boolean, default: false, i18n: duplicate }
+      - { name: body, label: Notas adicionais e imagens (opcional), widget: markdown, required: false, i18n: duplicate }
+
+  # ──────────────────────────────────────────────────────────────────
+  # PESQUISA — textos traduzíveis (PT e EN lado a lado no painel)
+  - name: pesquisa
+    label: Pesquisa (projetos)
+    label_singular: Projeto
+    folder: content/pesquisa
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    i18n: true
+    sortable_fields: [weight, title]
+    fields:
+      - { name: title, label: Título do projeto, widget: string, i18n: true }
+      - { name: summary, label: Resumo curto (aparece no cartão), widget: text, i18n: true }
+      - { name: date, label: Data, widget: datetime, type: date, format: 'YYYY-MM-DD', i18n: duplicate }
+      - { name: weight, label: Ordem na página (1 = primeiro), widget: number, value_type: int, default: 10, i18n: duplicate }
+      - name: image
+        label: Imagem de capa
+        widget: object
+        required: false
+        collapsed: true
+        i18n: true
+        fields:
+          - { name: filename, label: Imagem, widget: image, required: false, i18n: duplicate }
+          - { name: caption, label: Legenda/crédito, widget: string, required: false, i18n: true }
+      - { name: tags, label: Palavras-chave, widget: list, required: false, i18n: true }
+      - name: links
+        label: Links
+        widget: list
+        required: false
+        i18n: duplicate
+        fields:
+          - name: type
+            label: Tipo
+            widget: select
+            default: site
+            options:
+              - { label: Site, value: site }
+              - { label: PDF, value: pdf }
+              - { label: Vídeo, value: video }
+              - { label: Código, value: code }
+          - { name: url, label: Endereço (URL), widget: string, type: url }
+      - { name: body, label: Texto da página, widget: markdown, i18n: true }
+
+  # ──────────────────────────────────────────────────────────────────
+  - name: noticias
+    label: Notícias
+    label_singular: Notícia
+    folder: content/blog
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    i18n: true
+    slug: '{{year}}-{{month}}-{{slug}}'
+    sortable_fields: [date, title]
+    fields:
+      - { name: title, label: Título, widget: string, i18n: true }
+      - { name: summary, label: Resumo curto, widget: string, i18n: true }
+      - { name: date, label: Data, widget: datetime, type: date, format: 'YYYY-MM-DD', i18n: duplicate }
+      - { name: authors, label: Autores, widget: list, default: [me], i18n: duplicate }
+      - name: image
+        label: Imagem de capa
+        widget: object
+        required: false
+        collapsed: true
+        i18n: true
+        fields:
+          - { name: filename, label: Imagem, widget: image, required: false, i18n: duplicate }
+          - { name: caption, label: Legenda/crédito, widget: string, required: false, i18n: true }
+      - { name: tags, label: Palavras-chave, widget: list, required: false, i18n: true }
+      - { name: body, label: Texto, widget: markdown, i18n: true }
+
+  # ──────────────────────────────────────────────────────────────────
+  # EQUIPE — português em data/authors/, inglês em data/en/authors/
+  - name: equipe
+    label: Equipe (perfis)
+    label_singular: Pessoa
+    description: Seu perfil e o dos colaboradores. Cada pessoa é um arquivo, com versão em português e em inglês.
+    folder: data/{{locale}}/authors
+    extension: yaml
+    format: yaml
+    create: true
+    i18n: true
+    identifier_field: slug
+    summary: '{{fields.name.display}}'
+    media_folder: /assets/media/authors
+    public_folder: ''
+    fields:
+      - { name: schema, widget: hidden, default: hugoblox/author/v1, i18n: duplicate }
+      - name: slug
+        label: Identificador (sem espaços)
+        hint: 'Ex.: maria-souza. Use este mesmo nome no arquivo da foto. Para você, mantenha "me".'
+        widget: string
+        i18n: duplicate
+        pattern: ['^[a-z0-9-]+$', 'Use só letras minúsculas, números e hífen']
+      - { name: is_owner, label: Dono do site (só o seu perfil), widget: boolean, default: false, required: false, i18n: duplicate }
+      - name: name
+        label: Nome
+        widget: object
+        i18n: duplicate
+        fields:
+          - { name: display, label: Nome de exibição, widget: string }
+          - { name: given, label: Prenome(s), widget: string, required: false }
+          - { name: family, label: Sobrenome, widget: string, required: false }
+      - { name: role, label: Cargo/função, widget: string, required: false, i18n: true }
+      - { name: bio, label: Biografia, widget: text, required: false, i18n: true }
+      - name: user_groups
+        label: Grupo na página Equipe
+        hint: 'Na versão em português, use um grupo em português; na versão em inglês, o equivalente em inglês.'
+        widget: select
+        multiple: true
+        i18n: true
+        options:
+          - Pesquisador responsável
+          - Orientação
+          - Colaboradores
+          - Principal researcher
+          - Supervision
+          - Collaborators
+      - name: foto
+        label: Foto
+        hint: 'Antes de enviar, renomeie a foto para o identificador (ex.: maria-souza.jpg). Fotos quadradas ficam melhores.'
+        widget: image
+        required: false
+        i18n: duplicate
+      - name: affiliations
+        label: Instituições
+        widget: list
+        required: false
+        i18n: true
+        fields:
+          - { name: name, label: Nome, widget: string }
+          - { name: url, label: Site, widget: string, required: false }
+      - name: links
+        label: Contatos e redes
+        widget: list
+        required: false
+        i18n: duplicate
+        summary: '{{fields.icon}} — {{fields.url}}'
+        fields:
+          - name: icon
+            label: Ícone
+            widget: select
+            options:
+              - { label: E-mail, value: at-symbol }
+              - { label: LinkedIn, value: brands/linkedin }
+              - { label: Instagram, value: brands/instagram }
+              - { label: ORCID, value: academicons/orcid }
+              - { label: Lattes, value: academicons/lattes }
+              - { label: Google Acadêmico, value: academicons/google-scholar }
+              - { label: ResearchGate, value: academicons/researchgate }
+              - { label: GitHub, value: brands/github }
+              - { label: Site, value: hero/globe-alt }
+          - { name: url, label: 'Endereço (para e-mail use mailto:nome@email.com)', widget: string }
+          - { name: label, label: Texto (opcional), widget: string, required: false }
+      - { name: interests, label: Interesses, widget: list, required: false, i18n: true }
+      - name: education
+        label: Formação
+        widget: list
+        required: false
+        i18n: true
+        summary: '{{fields.degree}}'
+        fields:
+          - { name: degree, label: Curso, widget: string }
+          - { name: institution, label: Instituição, widget: string }
+          - { name: start, label: Início (AAAA-MM-DD), widget: string, required: false }
+          - { name: end, label: 'Fim (AAAA-MM-DD ou texto, ex.: Concluído)', widget: string, required: false }
+          - { name: summary, label: Descrição, widget: text, required: false }
+      - name: experience
+        label: Experiência
+        widget: list
+        required: false
+        i18n: true
+        summary: '{{fields.role}} — {{fields.org}}'
+        fields:
+          - { name: role, label: Função, widget: string }
+          - { name: org, label: Local/organização, widget: string }
+          - { name: start, label: Início (AAAA-MM-DD), widget: string, required: false }
+          - { name: end, label: 'Fim (vazio = atual)', widget: string, required: false }
+          - { name: summary, label: Descrição, widget: text, required: false }
+      - name: skills
+        label: Competências
+        widget: list
+        required: false
+        i18n: true
+        summary: '{{fields.name}}'
+        fields:
+          - { name: name, label: Grupo, widget: string }
+          - name: items
+            label: Itens
+            widget: list
+            fields:
+              - { name: label, label: Competência, widget: string }
+
+  # ──────────────────────────────────────────────────────────────────
+  - name: paginas
+    label: Páginas
+    i18n: true
+    files:
+      - name: contato
+        label: Contato
+        file: content/contato.{{locale}}.md
+        i18n: true
+        fields:
+          - { name: title, label: Título da aba, widget: string, i18n: true }
+          - { name: slug, widget: hidden, i18n: true }
+          - { name: date, widget: hidden, i18n: duplicate }
+          - { name: type, widget: hidden, default: landing, i18n: duplicate }
+          - name: sections
+            label: Conteúdo
+            widget: list
+            i18n: true
+            allow_add: false
+            allow_remove: false
+            allow_reorder: false
+            fields:
+              - { name: block, widget: hidden, default: contact-info }
+              - name: content
+                label: Dados de contato
+                widget: object
+                fields:
+                  - { name: title, label: Título, widget: string }
+                  - { name: subtitle, label: Subtítulo, widget: string, required: false }
+                  - { name: visit_title, label: Título do bloco de endereço, widget: string, required: false }
+                  - { name: connect_title, label: Título do bloco de contato, widget: string, required: false }
+                  - name: address
+                    label: Endereço
+                    widget: object
+                    fields:
+                      - { name: lines, label: Linhas do endereço, widget: list }
+                  - { name: email, label: E-mail, widget: string }
+                  - { name: phone, label: Telefone, widget: string, required: false }
+                  - name: social
+                    label: Redes
+                    widget: list
+                    required: false
+                    fields:
+                      - { name: icon, label: 'Ícone (ex.: brands/linkedin)', widget: string }
+                      - { name: url, label: Endereço, widget: string }
+                  - { name: map_url, label: Link do mapa, widget: string, required: false }
+                  - { name: show_form, widget: hidden, default: false }
