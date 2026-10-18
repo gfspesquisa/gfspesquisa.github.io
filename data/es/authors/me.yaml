@@ -1,0 +1,65 @@
+# Versión en español del perfil. Estos campos reemplazan a los del portugués (data/authors/me.yaml)
+# en el sitio en español. Los campos omitidos (nombre, foto, enlaces...) vienen del archivo en portugués.
+role: Estudiante de Ingeniería Agronómica
+bio: 'Soy estudiante de Ingeniería Agronómica en la Facultad de Ingeniería de Ilha Solteira (FEIS/UNESP), Brasil. Mi investigación busca entender cómo los hongos y otros microorganismos pueden contribuir a una agricultura más sostenible: desde el aprovechamiento del sustrato poscultivo de hongos comestibles como biofertilizante hasta bioinsumos microbianos y compuestos naturales con acción antifúngica. Participo en proyectos con colaboradores nacionales e internacionales, con apoyo del CNPq y de UK Research and Innovation.'
+user_groups:
+  - Investigador responsable
+affiliations:
+  - name: FEIS/UNESP — Facultad de Ingeniería de Ilha Solteira
+    url: https://www.feis.unesp.br/
+interests:
+  - Micología y fitopatología
+  - Microbiología del suelo
+  - Bioinsumos
+  - Productos naturales antifúngicos
+  - Agricultura sostenible
+education:
+  - degree: Grado en Ingeniería Agronómica
+    institution: FEIS/UNESP — Ilha Solteira, SP, Brasil
+    start: '2022'
+    end: Previsto 2028
+  - degree: Técnico Agropecuario
+    institution: ETEC — Votuporanga, SP, Brasil
+    start: 2018-02
+    end: Concluido
+  - degree: Técnico en Agrimensura
+    institution: ETEC — Votuporanga, SP, Brasil
+    start: 2019-07
+    end: Concluido
+experience:
+  - role: Formación académica — Laboratorio de Microbiología
+    org: FEIS/UNESP — Departamento de Fitosanidad, Ingeniería Rural y Suelos
+    start: 2023-07
+    summary: Iniciación a la investigación en Microbiología y Bioquímica del Suelo, bajo la supervisión de la Profa. Dra. Ana Maria Rodrigues Cassiolato.
+  - role: Formación académica — Laboratorio de Fitopatología Molecular
+    org: FEIS/UNESP — Departamento de Fitosanidad, Ingeniería Rural y Suelos
+    start: '2025'
+    summary: Iniciación a la investigación en Fitopatología, bajo la supervisión del Prof. Dr. Paulo Cezar Ceresini.
+  - role: Formación académica — Laboratorio de Física del Suelo
+    org: FEIS/UNESP — Departamento de Fitosanidad, Ingeniería Rural y Suelos
+    start: '2025'
+    summary: Iniciación a la investigación en Fertilidad del Suelo y Fertilización, bajo la supervisión de la Profa. Dra. Angélica Cristina Fernandes Deus.
+  - role: Formación académica — Bionanomateriales de biomas brasileños (GB3)
+    org: FEIS/UNESP — Departamento de Física y Química
+    start: '2025'
+    summary: Iniciación a la investigación en Química de Productos Naturales, bajo la supervisión de la Profa. Dra. Ligia Maria Manzine Costa.
+  - role: Representante estudiantil — Comisión Local de Permanencia Estudiantil (CLPE)
+    org: FEIS/UNESP
+    start: 2023-09
+    summary: Consejos, comisiones y asesorías, Facultad de Ingeniería de Ilha Solteira.
+  - role: Formación académica — Herbario de Ilha Solteira (HISA)
+    org: FEIS/UNESP — Departamento de Biología y Zootecnia
+    start: 2023-06
+    end: 2024-05
+    summary: Iniciación a la investigación en Taxonomía de Fanerógamas, bajo la supervisión de la Profa. Dra. Andréia Alves Rezende.
+skills:
+  - name: Análisis de datos
+    items:
+      - label: R / RStudio
+      - label: Python
+      - label: Estadística experimental (ANOVA, Tukey, PCA)
+  - name: Laboratorio y campo
+    items:
+      - label: Ensayos antifúngicos in vitro (MIC)
+      - label: Cultivo de hongos comestibles
+      - label: Fertilización orgánica y mineral

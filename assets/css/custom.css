@@ -1,0 +1,5 @@
+/* Menu mais compacto, para os itens caberem em uma linha também em espanhol */
+@media (min-width: 1024px) {
+  #nav-menu { gap: 1.1rem; }
+  #nav-menu > li { margin: 0 !important; }
+}

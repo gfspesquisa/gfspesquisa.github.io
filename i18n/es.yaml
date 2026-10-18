@@ -1,0 +1,31 @@
+# Traducciones que faltan en el tema Hugo Blox (español)
+- id: blog
+  translation: Noticias
+- id: present
+  translation: Actualidad
+- id: pub_paper_conference
+  translation: Trabajo en evento
+- id: awards
+  translation: Premios
+- id: funding
+  translation: Financiación
+- id: license
+  translation: Licencia
+- id: status
+  translation: Estado
+- id: peer_reviewed
+  translation: Revisado por pares
+- id: open_access
+  translation: Acceso abierto
+- id: award_level_winner
+  translation: Ganador
+- id: award_level_runner_up
+  translation: Segundo lugar
+- id: award_level_honorable_mention
+  translation: Mención honorífica
+- id: award_level_nominee
+  translation: Nominado
+- id: award_level_selected
+  translation: Seleccionado
+- id: award_level_featured
+  translation: Destacado

@@ -83,17 +83,18 @@ Se os colaboradores acharem o token complicado, dá para ativar o login direto c
 
 ---
 
-## Site em dois idiomas (português e inglês)
+## Site em três idiomas (português, inglês e espanhol)
 
-O site tem versão em **português** (`https://gfspesquisa.github.io/`) e em **inglês** (`https://gfspesquisa.github.io/en/`). O visitante troca de idioma pelo seletor no canto superior direito, e cada página leva à sua equivalente no outro idioma.
+O site tem versão em **português** (`https://gfspesquisa.github.io/`), **inglês** (`/en/`) e **espanhol** (`/es/`). O visitante troca de idioma pelo seletor no canto superior direito, e cada página leva à sua equivalente nos outros idiomas.
 
-**No painel**, cada item mostra os dois idiomas lado a lado:
+**No painel**, cada item mostra os idiomas lado a lado:
 
-- **Pesquisa, Notícias, Equipe e Contato:** escreva o texto em português e depois em inglês. Campos como data, imagem e links são copiados sozinhos para o inglês.
-- **Publicações:** ficam no idioma original em que foram publicadas e aparecem iguais nas duas versões. Basta cadastrar uma vez.
-- **Equipe:** no campo "Grupo", use o nome em português na versão PT (ex.: Orientação) e o equivalente em inglês na versão EN (ex.: Supervision).
+- **Pesquisa, Notícias, Equipe e Contato:** escreva o texto em português e depois a tradução em inglês e espanhol. Data, imagem e links são copiados sozinhos para os outros idiomas.
+- **Publicações:** ficam no idioma original em que foram publicadas e aparecem iguais nas três versões. Basta cadastrar uma vez.
+- **Equipe:** no campo "Grupo", use o nome no idioma de cada versão (ex.: Orientação / Supervision / Orientación).
+- **Tradução automática (opcional):** o painel tem um botão de tradução que usa serviços como Google, OpenAI ou Anthropic. Para ativar, crie uma chave de API em um desses serviços e cole nas configurações do painel. Sempre revise o texto traduzido antes de salvar.
 
-**Nos arquivos**, a versão em inglês fica ao lado da portuguesa: `index.md` (PT) e `index.en.md` (EN); `sobre.md` e `sobre.en.md`. Os perfis em inglês ficam em `data/en/authors/`, e os menus em `config/_default/menus.pt.yaml` e `menus.en.yaml`.
+**Nos arquivos**, as traduções ficam ao lado do português: `index.md` (PT), `index.en.md` (EN) e `index.es.md` (ES). Os perfis traduzidos ficam em `data/en/authors/` e `data/es/authors/`, e os menus em `config/_default/menus.pt.yaml`, `menus.en.yaml` e `menus.es.yaml`.
 
 ## Primeiros ajustes no conteúdo
 
@@ -119,13 +120,13 @@ Se comprar um domínio (ex.: `gabrielfelix.com.br`), configure em **Settings →
 
 | O quê | Arquivo |
 |---|---|
-| Seu perfil (bio, formação, experiência, links) | `data/authors/me.yaml` (PT) e `data/en/authors/me.yaml` (EN) |
+| Seu perfil (bio, formação, experiência, links) | `data/authors/me.yaml` (PT), `data/en/authors/me.yaml` (EN) e `data/es/authors/me.yaml` (ES) |
 | Colaboradores | `data/authors/*.yaml` |
 | Página inicial (ordem das seções) | `content/_index.md` |
 | Publicações | `content/publications/<nome>/index.md` |
 | Projetos de pesquisa | `content/pesquisa/<nome>/index.md` |
 | Notícias | `content/blog/<nome>/index.md` |
-| Menu | `config/_default/menus.pt.yaml` e `menus.en.yaml` |
+| Menu | `config/_default/menus.pt.yaml`, `menus.en.yaml` e `menus.es.yaml` |
 | Nome do site, cores e fontes | `config/_default/params.yaml` |
 | Configuração do painel | `static/admin/config.yml` |
 | Traduções de textos do tema | `i18n/pt-br.yaml` |

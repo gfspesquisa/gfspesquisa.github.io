@@ -1,0 +1,23 @@
+# Menú principal (español) — "weight" define el orden
+main:
+  - name: Inicio
+    url: /es/
+    weight: 10
+  - name: Sobre mí
+    url: /es/sobre-mi/
+    weight: 20
+  - name: Investigación
+    url: /es/investigacion/
+    weight: 30
+  - name: Publicaciones
+    url: /es/publicaciones/
+    weight: 40
+  - name: Noticias
+    url: /es/noticias/
+    weight: 50
+  - name: Equipo
+    url: /es/equipo/
+    weight: 60
+  - name: Contacto
+    url: /es/contacto/
+    weight: 70

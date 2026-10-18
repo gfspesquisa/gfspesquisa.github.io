@@ -22,10 +22,10 @@ slug:
   encoding: ascii
   clean_accents: true
 
-# Dois idiomas: português (padrão, arquivo index.md) e inglês (arquivo index.en.md)
+# Três idiomas: português (padrão, index.md), inglês (index.en.md) e espanhol (index.es.md)
 i18n:
   structure: multiple_files
-  locales: [pt, en]
+  locales: [pt, en, es]
   default_locale: pt
   omit_default_locale_from_file_path: true
 
@@ -33,11 +33,11 @@ collections:
 
   # ──────────────────────────────────────────────────────────────────
   # PUBLICAÇÕES — ficam no idioma original. O painel copia tudo
-  # automaticamente para a versão em inglês do site (campos "duplicate").
+  # automaticamente para as versões em inglês e espanhol (campos "duplicate").
   - name: publicacoes
     label: Publicações
     label_singular: Publicação
-    description: Resumos em congressos, artigos, capítulos e demais trabalhos (no idioma original; aparecem nas duas versões do site).
+    description: Resumos em congressos, artigos, capítulos e demais trabalhos (no idioma original; aparecem nas três versões do site).
     folder: content/publications
     path: '{{slug}}/index'
     media_folder: ''
@@ -125,7 +125,7 @@ collections:
       - { name: body, label: Notas adicionais e imagens (opcional), widget: markdown, required: false, i18n: duplicate }
 
   # ──────────────────────────────────────────────────────────────────
-  # PESQUISA — textos traduzíveis (PT e EN lado a lado no painel)
+  # PESQUISA — textos traduzíveis (PT, EN e ES lado a lado no painel)
   - name: pesquisa
     label: Pesquisa (projetos)
     label_singular: Projeto
@@ -199,11 +199,11 @@ collections:
       - { name: body, label: Texto, widget: markdown, i18n: true }
 
   # ──────────────────────────────────────────────────────────────────
-  # EQUIPE — português em data/authors/, inglês em data/en/authors/
+  # EQUIPE — português em data/authors/, inglês em data/en/authors/, espanhol em data/es/authors/
   - name: equipe
     label: Equipe (perfis)
     label_singular: Pessoa
-    description: Seu perfil e o dos colaboradores. Cada pessoa é um arquivo, com versão em português e em inglês.
+    description: Seu perfil e o dos colaboradores. Cada pessoa é um arquivo, com versões em português, inglês e espanhol.
     folder: data/{{locale}}/authors
     extension: yaml
     format: yaml
@@ -234,7 +234,7 @@ collections:
       - { name: bio, label: Biografia, widget: text, required: false, i18n: true }
       - name: user_groups
         label: Grupo na página Equipe
-        hint: 'Na versão em português, use um grupo em português; na versão em inglês, o equivalente em inglês.'
+        hint: 'Use o grupo no idioma de cada versão: português na PT, inglês na EN e espanhol na ES.'
         widget: select
         multiple: true
         i18n: true
@@ -245,6 +245,8 @@ collections:
           - Principal researcher
           - Supervision
           - Collaborators
+          - Investigador responsable
+          - Orientación
       - name: foto
         label: Foto
         hint: 'Antes de enviar, renomeie a foto para o identificador (ex.: maria-souza.jpg). Fotos quadradas ficam melhores.'

@@ -1,0 +1,48 @@
+# Versión en español de este perfil (reemplaza los campos en portugués en el sitio en español).
+role: Orientadora
+bio: Orientadora principal de los proyectos de investigación en cultivo de hongos comestibles y meliponicultura en el área de la microbiología.
+user_groups:
+  - Orientación
+interests:
+  - Microbiología y bioquímica del suelo
+  - Índices biológicos de calidad del suelo
+  - Recuperación de áreas degradadas
+  - Simbiosis y asociaciones entre microorganismos y plantas
+education:
+  - degree: Doctorado en Agronomía (Genética y Mejoramiento de Plantas)
+    institution: Universidad de São Paulo (USP), Brasil
+    start: '1988'
+    end: '1995'
+    summary: |-
+      Tesis: "Parasitismo de Sclerotinia sclerotiorum (Lib.) de Bary por mutantes de Trichoderma harzianum Rifai" (1995).
+      Orientador: Itamar Soares de Melo. Becaria del CNPq, Brasil.
+      Palabras clave: control biológico; mejoramiento; lechuga; podredumbre blanca.
+  - degree: Maestría en Agronomía (Microbiología Agrícola)
+    institution: Universidad de São Paulo (USP), Brasil
+    start: '1984'
+    end: '1988'
+    summary: |-
+      Disertación: "Reação de Resistência do Tomate (Lycopersicum spp.) à Rhizoctonia solani KUHN e Interações com Fungos Micorrízicos Vesículo-arbusculares" (1988).
+      Orientador: Itamar Soares de Melo. Becaria del CNPq, Brasil.
+      Palabras clave: control biológico; tomate; damping-off.
+  - degree: Especialización, Programa RHAE — Subprograma de Biotecnología
+    institution: Colorado State University System (CSU), Estados Unidos
+    start: '1992'
+    end: '1992'
+    summary: |-
+      Proyecto: "Estudos genéticos e fusão de protoplastos em linhagem de Trichoderma harzianum e controle integrado de Sclerotinia sclerotiorum, em alface".
+      Orientador: Dr. Ralph Baker. Becaria del CNPq, Brasil.
+  - degree: Grado en Ciencias Biológicas
+    institution: Universidad Estatal Paulista (UNESP), Brasil
+    start: '1979'
+    end: '1984'
+    summary: |-
+      Proyecto: "Fixação Biológica do Nitrogênio Atmosférico".
+      Orientador: Augusto Ferreira da Eira.
+  - degree: Grado en Ciencias Biológicas
+    institution: Universidad Estatal Paulista (UNESP), Brasil
+    start: '1979'
+    end: '1983'
+    summary: |-
+      Proyecto: "Avaliação de cepas de Rhizobium sp. inoculadas em progênies de amendoim (*Arachis hypogaea*) L. de cv. Tatu".
+      Orientador: Maurício Dutra Zanotto.

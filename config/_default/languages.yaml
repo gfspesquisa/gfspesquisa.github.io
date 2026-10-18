@@ -1,4 +1,4 @@
-# Idiomas do site — o português fica na raiz (/) e o inglês em /en/
+# Idiomas do site — português na raiz (/), inglês em /en/ e espanhol em /es/
 pt:
   locale: pt-br
   label: Português
@@ -22,3 +22,22 @@ en:
       publications: /publications/
       blog: /news/
       pesquisa: /research/
+es:
+  locale: es
+  label: Español
+  weight: 3
+  params:
+    hugoblox:
+      identity:
+        tagline: "Micología, microbiología del suelo y bioinsumos"
+        description: "Investigación en micología, fitopatología, microbiología del suelo y bioinsumos
+          para una agricultura más sostenible. Ingeniería Agronómica — FEIS/UNESP, Brasil."
+  permalinks:
+    page:
+      publications: /publicaciones/:contentbasename/
+      blog: /noticias/:contentbasename/
+      pesquisa: /investigacion/:contentbasename/
+    section:
+      publications: /publicaciones/
+      blog: /noticias/
+      pesquisa: /investigacion/
