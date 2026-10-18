@@ -1,20 +1,18 @@
 ---
 title: Site no ar!
-summary: A place to gather my publications, research projects, and updates.
+summary: Um espaço para reunir minhas publicações, projetos de pesquisa e novidades.
 date: 2026-10-15
 authors:
   - me
 image:
   filename: pasted-image-1792280000940.png
-  caption: Department of Plant Health, Agricultural Engineering, and Soils (FEIS-UNESP)
+  caption: Departamento de Fitossanidade, Engenharia Rural e Solos.
 tags:
-  - Science Communication
+  - Divulgação científica
 ---
 
-This website compiles my conference abstracts, publications, and research projects, always with
+Este site reúne meus **resumos em congressos, publicações e projetos de pesquisa**, sempre com
+links para as fontes originais. Aqui também vou compartilhar novidades sobre eventos,
+resultados e a rotina de laboratório.
 
-links to the original sources. Here, I’ll also share updates on events,
-
-results, and daily lab life.
-
-Follow us on Instagram and LinkedIn as well—the links are on the home page.
+Acompanhe também pelo Instagram e pelo LinkedIn — os links estão na página inicial.
