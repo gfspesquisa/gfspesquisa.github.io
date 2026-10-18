@@ -1,0 +1,48 @@
+# English version of this profile (replaces the Portuguese fields on the English site).
+role: Supervisor
+bio: Main supervisor of the research projects in mushroom cultivation and stingless beekeeping in the field of microbiology.
+user_groups:
+  - Supervision
+interests:
+  - Soil microbiology and biochemistry
+  - Biological indicators of soil quality
+  - Recovery of degraded areas
+  - Symbioses and associations between microorganisms and plants
+education:
+  - degree: PhD in Agronomy (Plant Genetics and Breeding)
+    institution: University of São Paulo (USP), Brazil
+    start: '1988'
+    end: '1995'
+    summary: |-
+      Thesis: "Parasitismo de Sclerotinia sclerotiorum (Lib.) de Bary por mutantes de Trichoderma harzianum Rifai" (1995).
+      Advisor: Itamar Soares de Melo. Scholarship: CNPq, Brazil.
+      Keywords: biological control; breeding; lettuce; white mold.
+  - degree: MSc in Agronomy (Agricultural Microbiology)
+    institution: University of São Paulo (USP), Brazil
+    start: '1984'
+    end: '1988'
+    summary: |-
+      Dissertation: "Reação de Resistência do Tomate (Lycopersicum spp.) à Rhizoctonia solani KUHN e Interações com Fungos Micorrízicos Vesículo-arbusculares" (1988).
+      Advisor: Itamar Soares de Melo. Scholarship: CNPq, Brazil.
+      Keywords: biological control; tomato; damping-off.
+  - degree: Specialization, RHAE Program — Biotechnology Sub-Program
+    institution: Colorado State University System (CSU), United States
+    start: '1992'
+    end: '1992'
+    summary: |-
+      Project: "Estudos genéticos e fusão de protoplastos em linhagem de Trichoderma harzianum e controle integrado de Sclerotinia sclerotiorum, em alface".
+      Advisor: Dr. Ralph Baker. Scholarship: CNPq, Brazil.
+  - degree: Bachelor's Degree in Biological Sciences
+    institution: São Paulo State University (UNESP), Brazil
+    start: '1979'
+    end: '1984'
+    summary: |-
+      Project: "Fixação Biológica do Nitrogênio Atmosférico".
+      Advisor: Augusto Ferreira da Eira.
+  - degree: Bachelor's Degree in Biological Sciences
+    institution: São Paulo State University (UNESP), Brazil
+    start: '1979'
+    end: '1983'
+    summary: |-
+      Project: "Avaliação de cepas de Rhizobium sp. inoculadas em progênies de amendoim (*Arachis hypogaea*) L. de cv. Tatu".
+      Advisor: Maurício Dutra Zanotto.

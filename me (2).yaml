@@ -1,0 +1,82 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Gabriel Felix da Silva
+  given: Gabriel Felix
+  family: da Silva
+role: Graduando em Engenharia Agronômica
+bio: 'Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem contribuir para uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo de cogumelos como biofertilizante a bioinsumos microbianos e compostos naturais com ação antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio do CNPq e da UK Research and Innovation.'
+user_groups:
+  - Pesquisador responsável
+foto: me.jpg
+affiliations:
+  - name: FEIS/UNESP — Faculdade de Engenharia de Ilha Solteira
+    url: https://www.feis.unesp.br/
+links:
+  - icon: at-symbol
+    url: mailto:gfspesquisa@gmail.com
+    label: E-mail
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/gabriel-felixBR/
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0007-0615-4886
+  - icon: brands/instagram
+    url: https://linktr.ee/gfspesquisa
+    label: Instagram
+interests:
+  - Micologia e fitopatologia
+  - Microbiologia do solo
+  - Bioinsumos
+  - Produtos naturais antifúngicos
+  - Agricultura sustentável
+education:
+  - degree: Bacharelado em Engenharia Agronômica
+    institution: FEIS/UNESP — Ilha Solteira, SP
+    start: '2022'
+    end: Previsão 2028
+  - degree: Técnico em Agropecuária
+    institution: ETEC — Votuporanga, SP
+    start: 2018-02
+    end: Concluído
+  - degree: Técnico em Agrimensura
+    institution: ETEC — Votuporanga, SP
+    start: 2019-07
+    end: Concluído
+experience:
+  - role: Vivência Acadêmica - Laboratório Microbiologia
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: 2023-07
+    summary: Introdução ao ensino na área do conhecimento em Microbiologia e Bioquímica do Solo voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Ana Maria Rodrigues Cassiolato.
+  - role: Vivência Acadêmica - Laboratório Fitopatologia Molecular
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Fitopatologia voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão do professor Dr. Paulo Cezar Ceresini.
+  - role: Vivência Acadêmica - Laboratório Física do Solo
+    org: FEIS - UNESP - Departamento de Fitossanidade, Engenharia Rural e Solos
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Fertilidade do Solo e Adubação voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Angélica Cristina Fernandes Deus.
+  - role: Vivência Acadêmica - Bionanomateriais do bioma brasileiro (GB3)
+    org: FEIS-UNESP Departamento Fisico-Químico
+    start: '2025'
+    summary: Introdução ao ensino na área do conhecimento em Química dos Produtos Naturais voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Ligia Maria Manzine Costa.
+  - role: Representante discente Comissão Local de Permanência Estudantil (CLPE)
+    org: FEIS/UNESP
+    start: 2023-09
+    summary: Conselhos, Comissões e Consultoria, Faculdade de Engenharia de Ilha Solteira.
+  - role: Vivência Acadêmica - Herbário de Ilha Solteira (HISA)
+    org: FEIS - UNESP - Departamento de Biologia e Zootecnia
+    start: 2023-06
+    end: 2024-05
+    summary: Introdução ao ensino na área do conhecimento em Taxonomia de Fanerógamos voltado a pesquisa, segundo a "Tabela de Áreas do Conhecimento" da FEIS-UNESP, sob supervisão da professora Dra. Andréia Alves Rezende.
+skills:
+  - name: Análise de dados
+    items:
+      - label: R / RStudio
+      - label: Python
+      - label: Estatística experimental (ANOVA, Tukey, PCA)
+  - name: Laboratório e Campo
+    items:
+      - label: Ensaios antifúngicos in vitro (MIC)
+      - label: Cultivo de cogumelos
+      - label: Adubação orgânica e mineral
