@@ -1,11 +1,7 @@
 ---
-# Home page (English). Sections appear in the order below.
-# The personal introduction (photo, bio, education) is on the "About" page.
 title: ''
-summary: ''
 date: 2026-10-15
 type: landing
-
 sections:
   - block: hero
     content:
@@ -28,66 +24,61 @@ sections:
         text: About me
         url: about/
     design:
-      size: compact
       background:
         gradient_mesh:
           enable: true
-
+      size: compact
   - block: features
-    id: linhas
     content:
-      subtitle: Research lines
       title: What I study
       text: 'Four fronts, one shared goal: farming that relies less on chemicals and makes better use of what nature offers.'
+      subtitle: Research lines
       items:
         - name: Circular economy with mushrooms
-          icon: arrow-path
           description: The substrate left over from *Pleurotus ostreatus* cultivation becomes a source of nutrients for plants.
+          icon: arrow-path
         - name: Natural control of fungi
-          icon: shield-check
           description: Red propolis and nanomaterials against fungi that attack maize and fungi of clinical importance.
+          icon: shield-check
         - name: Microbial bio-inputs
-          icon: beaker
           description: Bacteria such as *Azospirillum* and *Bacillus* supporting plant growth.
+          icon: beaker
         - name: Stingless bees
-          icon: bug-ant
           description: Characterizing jataí honey (*Tetragonisca angustula*).
-
+          icon: bug-ant
     design:
       layout: grid
-
+    id: linhas
   - block: collection
-    id: noticias
     content:
       title: Latest news
       count: 3
+      archive:
+        text: See all news
+        enable: true
+        link: news/
       filters:
         folders:
           - blog
-      archive:
-        enable: true
-        text: See all news
-        link: news/
     design:
-      view: article-grid
       columns: 3
       show_read_time: false
-
+      view: article-grid
+    id: noticias
   - block: collection
-    id: destaques
     content:
       title: Featured publications
+      archive:
+        text: See all publications
+        enable: true
+        link: publications/
       filters:
+        featured_only: true
         folders:
           - publications
-        featured_only: true
-      archive:
-        enable: true
-        text: See all publications
-        link: publications/
     design:
       view: citation
-
+    id: destaques
   - block: cta-card
     content:
       title: Science in your feed
@@ -99,4 +90,5 @@ sections:
     design:
       card:
         text_color: light
+summary: ''
 ---

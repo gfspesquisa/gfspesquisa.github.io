@@ -1,11 +1,7 @@
 ---
-# Página de inicio (español). Las secciones aparecen en el orden de abajo.
-# La presentación personal (foto, bio y formación) está en la página "Sobre mí".
 title: ''
-summary: ''
 date: 2026-10-15
 type: landing
-
 sections:
   - block: hero
     content:
@@ -28,66 +24,61 @@ sections:
         text: Quién soy
         url: sobre-mi/
     design:
-      size: compact
       background:
         gradient_mesh:
           enable: true
-
+      size: compact
   - block: features
-    id: linhas
     content:
-      subtitle: Líneas de investigación
       title: Qué investigo
       text: 'Cuatro frentes, un objetivo común: una agricultura que dependa menos de químicos y aproveche mejor lo que ofrece la naturaleza.'
+      subtitle: Líneas de investigación
       items:
         - name: Economía circular con hongos comestibles
-          icon: arrow-path
           description: El sustrato que queda del cultivo de *Pleurotus ostreatus* se convierte en fuente de nutrientes para las plantas.
+          icon: arrow-path
         - name: Control natural de hongos
-          icon: shield-check
           description: Propóleo rojo y nanomateriales contra hongos que atacan el maíz y hongos de importancia clínica.
+          icon: shield-check
         - name: Bioinsumos microbianos
-          icon: beaker
           description: Bacterias como *Azospirillum* y *Bacillus* al servicio del crecimiento de las plantas.
+          icon: beaker
         - name: Abejas sin aguijón
-          icon: bug-ant
           description: Caracterización de la miel de jataí (*Tetragonisca angustula*).
-
+          icon: bug-ant
     design:
       layout: grid
-
+    id: linhas
   - block: collection
-    id: noticias
     content:
       title: Últimas noticias
       count: 3
+      archive:
+        text: Ver todas las noticias
+        enable: true
+        link: noticias/
       filters:
         folders:
           - blog
-      archive:
-        enable: true
-        text: Ver todas las noticias
-        link: noticias/
     design:
-      view: article-grid
       columns: 3
       show_read_time: false
-
+      view: article-grid
+    id: noticias
   - block: collection
-    id: destaques
     content:
       title: Publicaciones destacadas
+      archive:
+        text: Ver todas las publicaciones
+        enable: true
+        link: publicaciones/
       filters:
+        featured_only: true
         folders:
           - publications
-        featured_only: true
-      archive:
-        enable: true
-        text: Ver todas las publicaciones
-        link: publicaciones/
     design:
       view: citation
-
+    id: destaques
   - block: cta-card
     content:
       title: Ciencia en tu feed
@@ -99,4 +90,5 @@ sections:
     design:
       card:
         text_color: light
+summary: ''
 ---

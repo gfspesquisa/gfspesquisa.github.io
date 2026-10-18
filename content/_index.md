@@ -1,11 +1,7 @@
 ---
-# Página inicial. As seções aparecem na ordem abaixo.
-# A apresentação pessoal (foto, bio e formação) fica na página "Sobre".
 title: ''
-summary: ''
 date: 2026-10-15
 type: landing
-
 sections:
   - block: hero
     content:
@@ -18,7 +14,7 @@ sections:
           text: Saiba mais
           url: noticias/2026-10-iums-2026-lisboa/
       eyebrow: Divulgação científica · FEIS-UNESP
-      title: Fungos, solo e [ciência que chega ao campo]
+      title: Fungos, solo e [ciência que chega a sociedade]
       text: Pesquisa em micologia, microbiologia do solo e bioinsumos, contada de um jeito simples, para quem planta, estuda ou só tem curiosidade.
       primary_action:
         text: Conheça a pesquisa
@@ -28,66 +24,61 @@ sections:
         text: Quem sou eu
         url: sobre/
     design:
-      size: compact
       background:
         gradient_mesh:
           enable: true
-
+      size: compact
   - block: features
-    id: linhas
     content:
-      subtitle: Linhas de pesquisa
       title: O que eu pesquiso
       text: Quatro frentes, um objetivo comum, uma agricultura que depende menos de químicos e aproveita melhor o que a natureza oferece.
+      subtitle: Linhas de pesquisa
       items:
         - name: Economia circular com cogumelos
-          icon: arrow-path
           description: O substrato que sobra do cultivo de *Pleurotus ostreatus* vira fonte de nutrientes para as plantas.
+          icon: arrow-path
         - name: Controle natural de fungos
-          icon: shield-check
           description: Própolis vermelha e nanomateriais contra fungos que atacam o milho e fungos de importância clínica.
+          icon: shield-check
         - name: Bioinsumos microbianos
-          icon: beaker
           description: Bactérias como *Azospirillum* e *Bacillus* a serviço do crescimento das plantas.
+          icon: beaker
         - name: Abelhas sem ferrão
-          icon: bug-ant
           description: Caracterização do mel de jataí (*Tetragonisca angustula*).
-
+          icon: bug-ant
     design:
       layout: grid
-
+    id: linhas
   - block: collection
-    id: noticias
     content:
       title: Últimas notícias
       count: 3
+      archive:
+        text: Ver todas as notícias
+        enable: true
+        link: noticias/
       filters:
         folders:
           - blog
-      archive:
-        enable: true
-        text: Ver todas as notícias
-        link: noticias/
     design:
-      view: article-grid
       columns: 3
       show_read_time: false
-
+      view: article-grid
+    id: noticias
   - block: collection
-    id: destaques
     content:
       title: Publicações em destaque
+      archive:
+        text: Ver todas as publicações
+        enable: true
+        link: publicacoes/
       filters:
+        featured_only: true
         folders:
           - publications
-        featured_only: true
-      archive:
-        enable: true
-        text: Ver todas as publicações
-        link: publicacoes/
     design:
       view: citation
-
+    id: destaques
   - block: cta-card
     content:
       title: Ciência no seu feed
@@ -99,4 +90,5 @@ sections:
     design:
       card:
         text_color: light
+summary: ''
 ---
