@@ -327,6 +327,164 @@ collections:
     label: Páginas
     i18n: true
     files:
+      # PÁGINA INICIAL — cada idioma é editado separadamente (troque o idioma no topo do editor).
+      # Só os textos aparecem aqui; as configurações de layout ficam guardadas no arquivo.
+      - name: inicio
+        label: Página inicial
+        file: content/_index.{{locale}}.md
+        i18n: true
+        fields:
+          - { name: title, widget: hidden, i18n: true }
+          - { name: date, widget: hidden, i18n: duplicate }
+          - { name: type, widget: hidden, default: landing, i18n: duplicate }
+          - name: sections
+            label: Seções da página
+            label_singular: Seção
+            hint: Arraste para mudar a ordem das seções.
+            widget: list
+            i18n: true
+            allow_add: false
+            allow_remove: false
+            allow_reorder: true
+            typeKey: block
+            types:
+              - name: hero
+                label: Abertura (topo da página)
+                widget: object
+                summary: "{{content.title}}"
+                fields:
+                  - name: content
+                    label: Textos
+                    widget: object
+                    fields:
+                      - name: announcement
+                        label: Aviso acima do título (não aparece no celular)
+                        widget: object
+                        required: false
+                        collapsed: true
+                        fields:
+                          - name: badge
+                            label: Etiqueta
+                            widget: object
+                            required: false
+                            fields:
+                              - { name: text, label: Texto da etiqueta, widget: string, required: false, hint: "Ex.: Novidade" }
+                              - name: color
+                                label: Cor da etiqueta
+                                widget: select
+                                required: false
+                                default: green
+                                options:
+                                  - { label: Verde, value: green }
+                                  - { label: Azul, value: primary }
+                                  - { label: Amarelo, value: amber }
+                                  - { label: Rosa, value: rose }
+                          - { name: text, label: Texto do aviso, widget: string, required: false, hint: Deixe vazio para esconder o aviso. }
+                          - name: link
+                            label: Link do aviso
+                            widget: object
+                            required: false
+                            fields:
+                              - { name: text, label: Texto do link, widget: string, required: false, hint: "Ex.: Saiba mais" }
+                              - { name: url, label: Endereço, widget: string, required: false, hint: "Ex.: noticias/nome-da-noticia/ (em inglês: news/..., em espanhol: noticias/...)" }
+                      - { name: eyebrow, label: Linha pequena acima do título, widget: string, required: false }
+                      - { name: title, label: Título, widget: string, hint: "O trecho entre colchetes [assim] aparece colorido." }
+                      - { name: text, label: Frase de apresentação, widget: text, required: false }
+                      - name: primary_action
+                        label: Botão principal
+                        widget: object
+                        fields:
+                          - { name: text, label: Texto do botão, widget: string }
+                          - { name: url, label: Endereço, widget: string, hint: "Ex.: pesquisa/ (inglês: research/, espanhol: investigacion/)" }
+                      - name: secondary_action
+                        label: Segundo link
+                        widget: object
+                        required: false
+                        fields:
+                          - { name: text, label: Texto, widget: string, required: false }
+                          - { name: url, label: Endereço, widget: string, required: false, hint: "Ex.: sobre/ (inglês: about/, espanhol: sobre-mi/)" }
+              - name: features
+                label: Linhas de pesquisa (cartões com ícone)
+                widget: object
+                summary: "{{content.title}}"
+                fields:
+                  - name: content
+                    label: Textos
+                    widget: object
+                    fields:
+                      - { name: subtitle, label: Linha pequena acima do título, widget: string, required: false }
+                      - { name: title, label: Título da seção, widget: string }
+                      - { name: text, label: Frase de introdução, widget: text, required: false }
+                      - name: items
+                        label: Cartões
+                        label_singular: Cartão
+                        widget: list
+                        summary: "{{name}}"
+                        fields:
+                          - { name: name, label: Título, widget: string }
+                          - { name: description, label: Descrição, widget: text, hint: "Use *asteriscos* para itálico, como em *Fusarium*." }
+                          - name: icon
+                            label: Ícone
+                            widget: select
+                            options:
+                              - { label: "Setas em círculo (reaproveitamento)", value: arrow-path }
+                              - { label: "Escudo (proteção, controle)", value: shield-check }
+                              - { label: "Frasco de laboratório", value: beaker }
+                              - { label: "Inseto (abelhas)", value: bug-ant }
+                              - { label: "Folha / brilho", value: sparkles }
+                              - { label: "Planeta", value: globe-americas }
+                              - { label: "Capelo (formação)", value: academic-cap }
+                              - { label: "Lâmpada (ideia)", value: light-bulb }
+                              - { label: "Microscópio / pesquisa", value: magnifying-glass }
+                              - { label: "Gráfico", value: chart-bar }
+                              - { label: "Livro", value: book-open }
+                              - { label: "Pessoas", value: user-group }
+              - name: collection
+                label: Lista automática (notícias ou publicações)
+                widget: object
+                summary: "{{content.title}}"
+                fields:
+                  - name: content
+                    label: Textos
+                    widget: object
+                    fields:
+                      - { name: title, label: Título da seção, widget: string }
+                      - { name: count, label: Quantos itens mostrar, widget: number, value_type: int, required: false, hint: Vazio = todos. }
+                      - name: archive
+                        label: Botão "ver todos"
+                        widget: object
+                        required: false
+                        fields:
+                          - { name: text, label: Texto do botão, widget: string, required: false }
+              - name: cta-card
+                label: Convite (bloco azul)
+                widget: object
+                summary: "{{content.title}}"
+                fields:
+                  - name: content
+                    label: Textos
+                    widget: object
+                    fields:
+                      - { name: title, label: Título, widget: string }
+                      - { name: text, label: Texto, widget: text, required: false }
+                      - name: button
+                        label: Botão
+                        widget: object
+                        fields:
+                          - { name: text, label: Texto do botão, widget: string }
+                          - { name: url, label: Endereço, widget: string, hint: "Ex.: https://linktr.ee/gfspesquisa" }
+              - name: markdown
+                label: Texto livre
+                widget: object
+                summary: "{{content.title}}"
+                fields:
+                  - name: content
+                    label: Textos
+                    widget: object
+                    fields:
+                      - { name: title, label: Título, widget: string, required: false }
+                      - { name: text, label: Texto, widget: markdown, required: false }
+
       - name: contato
         label: Contato
         file: content/contato.{{locale}}.md

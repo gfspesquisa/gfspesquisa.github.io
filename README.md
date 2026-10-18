@@ -61,6 +61,7 @@ No painel você encontra:
 - **Pesquisa (projetos)**: os cartões da página Pesquisa;
 - **Notícias**: novidades, eventos e prêmios;
 - **Equipe (perfis)**: o seu perfil (arquivo `me`) e o de cada colaborador;
+- **Páginas → Página inicial**: a abertura (título, frase e botões), as linhas de pesquisa, os títulos das seções e o convite para o Instagram. Cada idioma é editado separadamente;
 - **Páginas → Contato**: endereço, e-mail e redes.
 
 Ao clicar em **Salvar**, a alteração vai para o GitHub e o site é atualizado em alguns minutos.
@@ -122,7 +123,7 @@ Se comprar um domínio (ex.: `gabrielfelix.com.br`), configure em **Settings →
 |---|---|
 | Seu perfil (bio, formação, experiência, links) | `data/authors/me.yaml` (PT), `data/en/authors/me.yaml` (EN) e `data/es/authors/me.yaml` (ES) |
 | Colaboradores | `data/authors/*.yaml` |
-| Página inicial (ordem das seções) | `content/_index.md` |
+| Página inicial (textos e ordem das seções) | `content/_index.md` (`.en.md`, `.es.md`) |
 | Publicações | `content/publications/<nome>/index.md` |
 | Projetos de pesquisa | `content/pesquisa/<nome>/index.md` |
 | Notícias | `content/blog/<nome>/index.md` |
