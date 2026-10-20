@@ -26,4 +26,4 @@ Después de la cosecha de la seta ostra, queda un gran volumen de sustrato: el c
 
 **Autores:** Gabriel Felix da Silva, Philippe Solano Toledo Silva y Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
-Agradezco a mi orientadora, a mis compañeros del Laboratorio de Microbiología de la FEIS/UNESP y del DEFERS, y a nuestros socios Funghi & Flora y Cogumelos Coloniais.
+Agradezco a mi orientadora, la Profa. Dra. Ana Maria Rodrigues Cassiolato, a mis compañeros del Laboratorio de Microbiología de la FEIS/UNESP y del DEFERS, y a nuestros socios Funghi & Flora y Cogumelos Coloniais.

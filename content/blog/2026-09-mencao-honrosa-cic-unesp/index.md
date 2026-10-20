@@ -26,4 +26,4 @@ Depois da colheita do cogumelo-ostra, sobra um grande volume de substrato, o com
 
 **Autores:** Gabriel Felix da Silva, Philippe Solano Toledo Silva e Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
-Agradeço à orientadora, aos colegas do Laboratório de Microbiologia da FEIS/UNESP e do DEFERS, e aos parceiros Funghi & Flora e Cogumelos Coloniais.
+Agradeço à minha orientadora, Profa. Dra. Ana Maria Rodrigues Cassiolato, aos colegas do Laboratório de Microbiologia da FEIS/UNESP e do DEFERS, e aos parceiros Funghi & Flora e Cogumelos Coloniais.

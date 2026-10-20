@@ -26,4 +26,4 @@ After oyster mushrooms are harvested, a large volume of growing substrate is lef
 
 **Authors:** Gabriel Felix da Silva, Philippe Solano Toledo Silva and Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
-Thanks to my advisor, to my colleagues at the FEIS/UNESP Microbiology Laboratory and DEFERS, and to our partners Funghi & Flora and Cogumelos Coloniais.
+Thanks to my advisor, Prof. Dr. Ana Maria Rodrigues Cassiolato, to my colleagues at the FEIS/UNESP Microbiology Laboratory and DEFERS, and to our partners Funghi & Flora and Cogumelos Coloniais.
