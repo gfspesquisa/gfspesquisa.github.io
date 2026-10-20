@@ -14,7 +14,7 @@ sections:
           text: Read more
           url: news/2026-10-iums-2026-lisboa/
       eyebrow: Science outreach · FEIS-UNESP
-      title: Fungi, soil and [science that reaches the field]
+      title: Fungi, soil and [science that reaches society]
       text: Research in mycology, soil microbiology and bio-inputs, explained simply for farmers, students and anyone curious.
       primary_action:
         text: Explore the research

@@ -14,7 +14,7 @@ sections:
           text: Saiba mais
           url: noticias/2026-10-iums-2026-lisboa/
       eyebrow: Divulgação científica · FEIS-UNESP
-      title: Fungos, solo e [ciência que chega a sociedade]
+      title: Fungos, solo e [ciência que chega à sociedade]
       text: Pesquisa em micologia, microbiologia do solo e bioinsumos, contada de um jeito simples, para quem planta, estuda ou só tem curiosidade.
       primary_action:
         text: Conheça a pesquisa

@@ -14,7 +14,7 @@ sections:
           text: Más información
           url: noticias/2026-10-iums-2026-lisboa/
       eyebrow: Divulgación científica · FEIS-UNESP
-      title: Hongos, suelo y [ciencia que llega al campo]
+      title: Hongos, suelo y [ciencia que llega a la sociedad]
       text: Investigación en micología, microbiología del suelo y bioinsumos, contada de forma sencilla para quien cultiva, estudia o simplemente tiene curiosidad.
       primary_action:
         text: Conoce la investigación
