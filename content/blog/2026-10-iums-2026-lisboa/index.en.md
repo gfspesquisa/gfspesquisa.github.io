@@ -21,7 +21,7 @@ I'm part of three studies developed at UNESP.
 The first two look for alternatives to conventional fungicides against *Fusarium verticillioides*, a fungus that attacks maize and can produce mycotoxins:
 
 1. **Dolomite–silver composite:** an abundant, low-cost mineral impregnated with silver, tested against the fungus in the laboratory. Title: *In vitro antifungal activity of silver-doped dolomite against Fusarium verticillioides*.
-2. **Red propolis from Alagoas:** a Brazilian natural product, evaluated at different concentrations with dose-response curves. Title: *Antifungal activity of Alagoas red propolis extract on the mycelial growth of Fusarium verticillioides in vitro*.
+2. **Red propolis from Alagoas:** a Brazilian natural product, evaluated at different concentrations with dose-response curves. Title: *Antifungal activity of red propolis extract from Alagoas on mycelial growth of Fusarium verticillioides in vitro*.
 
 The third one is in the *Microbes for Sustainable Agriculture* session:
 

@@ -21,7 +21,7 @@ Participo en tres trabajos desarrollados en la UNESP.
 Los dos primeros buscan alternativas a los fungicidas convencionales contra *Fusarium verticillioides*, un hongo que ataca el maíz y puede producir micotoxinas:
 
 1. **Compuesto de dolomita y plata:** un mineral abundante y de bajo costo, impregnado con plata, probado contra el hongo en laboratorio. Título: *In vitro antifungal activity of silver-doped dolomite against Fusarium verticillioides*.
-2. **Propóleo rojo de Alagoas:** un producto natural brasileño, evaluado en diferentes concentraciones, con curvas de dosis-respuesta. Título: *Antifungal activity of Alagoas red propolis extract on the mycelial growth of Fusarium verticillioides in vitro*.
+2. **Propóleo rojo de Alagoas:** un producto natural brasileño, evaluado en diferentes concentraciones, con curvas de dosis-respuesta. Título: *Antifungal activity of red propolis extract from Alagoas on mycelial growth of Fusarium verticillioides in vitro*.
 
 El tercero va a la sesión *Microbes for Sustainable Agriculture*:
 

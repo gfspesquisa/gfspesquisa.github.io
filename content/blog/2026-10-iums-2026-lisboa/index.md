@@ -21,7 +21,7 @@ Participo de três trabalhos desenvolvidos na UNESP.
 Os dois primeiros buscam alternativas aos fungicidas convencionais contra o *Fusarium verticillioides*, fungo que ataca o milho e pode produzir micotoxinas:
 
 1. **Compósito de dolomita e prata:** um mineral abundante e de baixo custo, impregnado com prata, testado contra o fungo em laboratório. Título: *In vitro antifungal activity of silver-doped dolomite against Fusarium verticillioides*.
-2. **Própolis vermelha de Alagoas:** um produto natural brasileiro, avaliado em diferentes concentrações, com curvas de dose-resposta. Título: *Antifungal activity of Alagoas red propolis extract on the mycelial growth of Fusarium verticillioides in vitro*.
+2. **Própolis vermelha de Alagoas:** um produto natural brasileiro, avaliado em diferentes concentrações, com curvas de dose-resposta. Título: *Antifungal activity of red propolis extract from Alagoas on mycelial growth of Fusarium verticillioides in vitro*.
 
 O terceiro vai para a sessão *Microbes for Sustainable Agriculture*:
 
