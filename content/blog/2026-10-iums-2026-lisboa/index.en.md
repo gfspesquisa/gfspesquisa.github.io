@@ -20,12 +20,12 @@ I'm part of three studies developed at UNESP.
 
 The first two look for alternatives to conventional fungicides against *Fusarium verticillioides*, a fungus that attacks maize and can produce mycotoxins:
 
-1. **Dolomite–silver composite:** an abundant, low-cost mineral impregnated with silver, tested against the fungus in the laboratory.
-2. **Red propolis from Alagoas:** a Brazilian natural product, evaluated at different concentrations with dose-response curves.
+1. **Dolomite–silver composite:** an abundant, low-cost mineral impregnated with silver, tested against the fungus in the laboratory. Title: *In vitro antifungal activity of silver-doped dolomite against Fusarium verticillioides*.
+2. **Red propolis from Alagoas:** a Brazilian natural product, evaluated at different concentrations with dose-response curves. Title: *Antifungal activity of Alagoas red propolis extract on the mycelial growth of Fusarium verticillioides in vitro*.
 
 The third one is in the *Microbes for Sustainable Agriculture* session:
 
-3. **Microbial consortia and organic fertilization in *Astronium fraxinifolium* seedlings:** composted sewage sludge mixed with sugarcane bagasse was combined with the bacterium *Bacillus subtilis* and the mycorrhizal fungus *Rhizophagus clarus*. We evaluated seedling growth, quality and water use. The study is led by Philippe Silva, in a partnership between FEIS/UNESP and FCA/UNESP in Botucatu.
+3. **Microbial consortia and organic fertilization in *Astronium fraxinifolium* seedlings:** composted sewage sludge mixed with sugarcane bagasse was combined with the bacterium *Bacillus subtilis* and the mycorrhizal fungus *Rhizophagus clarus*. We evaluated seedling growth, quality and water use. The study is led by Philippe Silva, in a partnership between FEIS/UNESP and FCA/UNESP in Botucatu. Title: *Microbial consortia and organic fertilization enhance growth and water status of Astronium fraxinifolium seedlings*.
 
 Behind-the-scenes updates will be on Instagram, and the abstracts will be added to the [Publications](/en/publications/) page after the event.
 

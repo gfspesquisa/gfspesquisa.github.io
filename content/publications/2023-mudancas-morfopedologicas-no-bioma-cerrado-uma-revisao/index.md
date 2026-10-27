@@ -4,9 +4,9 @@ authors:
   - me
 date: 2023-08-22
 publication_types:
-  - article-journal
+  - paper-conference
 publication:
-  name: IV Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia
+  name: IV Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia (resumo expandido)
   volume: '1'
   issue: '1'
   pages: '4'

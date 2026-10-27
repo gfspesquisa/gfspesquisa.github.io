@@ -5,7 +5,7 @@ authors:
   - Luisa Rocca de Oliveira
   - Lanay Vasques Codulo
   - D. J. Silva
-  - Paulo Cesar Ceresine
+  - Paulo Cesar Ceresini
 date: 2025-12-03
 publication_types:
   - paper-conference
