@@ -1,7 +1,7 @@
 # English version of the profile. Fields here replace the Portuguese ones (data/authors/me.yaml)
 # on the English site. Fields left out (name, photo, links...) come from the Portuguese file.
-role: Undergraduate Student in Agronomic Engineering
-bio: 'I am an undergraduate student in Agronomic Engineering at the School of Engineering of Ilha Solteira (FEIS/UNESP), Brazil. My research aims to understand how fungi and other microorganisms can contribute to more sustainable agriculture: from the use of spent mushroom substrate as a biofertilizer to microbial bio-inputs and natural compounds with antifungal properties. I take part in projects with national and international collaborators, with support from CNPq and UK Research and Innovation.'
+role: Agronomy Undergraduate
+bio: 'I am an Agronomy undergraduate at the School of Engineering of Ilha Solteira (FEIS/UNESP), Brazil. I work in mycology, plant pathology and soil microbiology from a One Health perspective, which connects the health of plants, people and the environment. My research covers the bioprospecting of microorganisms to control plant pathogens, the use of biomaterials and natural products against plant pathogenic fungi, and the reuse of mushroom-farming residues as bio-inputs. I take part in projects with national and international collaborators, with support from CNPq and UK Research and Innovation.'
 user_groups:
   - Principal researcher
 affiliations:
@@ -19,13 +19,14 @@ links:
     url: https://linktr.ee/gfspesquisa
     label: Instagram
 interests:
+  - One Health
   - Mycology and plant pathology
-  - Soil microbiology
-  - Bio-inputs
-  - Antifungal natural products
+  - Bioprospecting of microorganisms
+  - Antifungal biomaterials and natural products
+  - Soil microbiology and bio-inputs
   - Sustainable agriculture
 education:
-  - degree: Bachelor's Degree in Agronomic Engineering
+  - degree: Bachelor's Degree in Agronomy
     institution: FEIS/UNESP — Ilha Solteira, SP, Brazil
     start: '2022'
     end: Expected 2028

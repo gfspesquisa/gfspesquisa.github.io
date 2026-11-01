@@ -15,7 +15,7 @@ sections:
           url: news/2026-10-iums-2026-lisboa/
       eyebrow: Science outreach · FEIS-UNESP
       title: Fungi, soil and [science that reaches society]
-      text: Research in mycology, soil microbiology and bio-inputs, explained simply for farmers, students and anyone curious.
+      text: Research in mycology, plant pathology and soil microbiology from a One Health perspective, explained simply for farmers, students and anyone curious.
       primary_action:
         text: Explore the research
         url: research/
@@ -31,21 +31,21 @@ sections:
   - block: features
     content:
       title: What I study
-      text: 'Four fronts, one shared goal: farming that relies less on chemicals and makes better use of what nature offers.'
+      text: 'Four fronts with one common thread, One Health: the health of plants, people and the environment is connected.'
       subtitle: Research lines
       items:
-        - name: Circular economy with mushrooms
-          description: The substrate left over from *Pleurotus ostreatus* cultivation becomes a source of nutrients for plants.
-          icon: arrow-path
-        - name: Natural control of fungi
-          description: Red propolis and nanomaterials against fungi that attack maize and fungi of clinical importance.
+        - name: Bioprospecting microorganisms
+          description: Searching for microorganisms with potential to control plant pathogens.
+          icon: magnifying-glass
+        - name: Biomaterials against plant pathogenic fungi
+          description: Red propolis and silver-based composites to control fungi such as *Fusarium verticillioides*.
           icon: shield-check
-        - name: Microbial bio-inputs
-          description: Bacteria such as *Azospirillum* and *Bacillus* supporting plant growth.
+        - name: Mushroom-farming residues as bio-inputs
+          description: Spent *Pleurotus ostreatus* substrate as a biofertilizer and substrate conditioner.
+          icon: arrow-path
+        - name: Beneficial microorganisms in crop production
+          description: Bacteria such as *Bacillus* and mycorrhizal fungi for plant growth and seedling production.
           icon: beaker
-        - name: Stingless bees
-          description: Characterizing jataí honey (*Tetragonisca angustula*).
-          icon: bug-ant
     design:
       layout: grid
     id: linhas

@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Research projects
-      text: Microorganisms and natural products for more sustainable agriculture.
+      text: Bioprospecting of microorganisms, biomaterials and bio-inputs to control plant pathogens and support more sustainable agriculture, from a One Health perspective.
       filters:
         folders:
           - pesquisa

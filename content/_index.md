@@ -15,7 +15,7 @@ sections:
           url: noticias/2026-10-iums-2026-lisboa/
       eyebrow: Divulgação científica · FEIS-UNESP
       title: Fungos, solo e [ciência que chega à sociedade]
-      text: Pesquisa em micologia, microbiologia do solo e bioinsumos, contada de um jeito simples, para quem planta, estuda ou só tem curiosidade.
+      text: Pesquisa em micologia, fitopatologia e microbiologia do solo, sob a perspectiva da Saúde Única, contada de um jeito simples para quem planta, estuda ou só tem curiosidade.
       primary_action:
         text: Conheça a pesquisa
         url: pesquisa/
@@ -31,21 +31,21 @@ sections:
   - block: features
     content:
       title: O que eu pesquiso
-      text: Quatro frentes, um objetivo comum, uma agricultura que depende menos de químicos e aproveita melhor o que a natureza oferece.
+      text: 'Quatro frentes e um mesmo eixo, a Saúde Única (One Health): a saúde das plantas, das pessoas e do ambiente está conectada.'
       subtitle: Linhas de pesquisa
       items:
-        - name: Economia circular com cogumelos
-          description: O substrato que sobra do cultivo de *Pleurotus ostreatus* vira fonte de nutrientes para as plantas.
-          icon: arrow-path
-        - name: Controle natural de fungos
-          description: Própolis vermelha e nanomateriais contra fungos que atacam o milho e fungos de importância clínica.
+        - name: Bioprospecção de microrganismos
+          description: Busca de microrganismos com potencial para o controle de fitopatógenos.
+          icon: magnifying-glass
+        - name: Biomateriais contra fungos fitopatogênicos
+          description: Própolis vermelha e compósitos com prata no controle de fungos como *Fusarium verticillioides*.
           icon: shield-check
-        - name: Bioinsumos microbianos
-          description: Bactérias como *Azospirillum* e *Bacillus* a serviço do crescimento das plantas.
+        - name: Resíduos da fungicultura como bioinsumos
+          description: O substrato pós-cultivo de *Pleurotus ostreatus* como biofertilizante e condicionador de substrato.
+          icon: arrow-path
+        - name: Microrganismos benéficos na produção vegetal
+          description: Bactérias como *Bacillus* e fungos micorrízicos no crescimento das plantas e na produção de mudas.
           icon: beaker
-        - name: Abelhas sem ferrão
-          description: Caracterização do mel de jataí (*Tetragonisca angustula*).
-          icon: bug-ant
     design:
       layout: grid
     id: linhas

@@ -10,7 +10,7 @@ en:
   params:
     hugoblox:
       identity:
-        tagline: "Mycology, soil microbiology and bio-inputs"
+        tagline: "Mycology, plant pathology and soil microbiology · One Health"
         description: "Research in mycology, plant pathology, soil microbiology and bio-inputs
           for more sustainable agriculture. Agronomic Engineering — FEIS/UNESP, Brazil."
   permalinks:
@@ -29,7 +29,7 @@ es:
   params:
     hugoblox:
       identity:
-        tagline: "Micología, microbiología del suelo y bioinsumos"
+        tagline: "Micología, fitopatología y microbiología del suelo · Una Salud"
         description: "Investigación en micología, fitopatología, microbiología del suelo y bioinsumos
           para una agricultura más sostenible. Ingeniería Agronómica — FEIS/UNESP, Brasil."
   permalinks:

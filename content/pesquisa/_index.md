@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Projetos de pesquisa
-      text: Micro-organismos e produtos naturais a serviço de uma agricultura mais sustentável.
+      text: Bioprospecção de microrganismos, biomateriais e bioinsumos para o controle de fitopatógenos e uma agricultura mais sustentável, sob a perspectiva da Saúde Única.
       filters:
         folders:
           - pesquisa

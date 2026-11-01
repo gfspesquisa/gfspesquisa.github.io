@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Proyectos de investigación
-      text: Microorganismos y productos naturales al servicio de una agricultura más sostenible.
+      text: Bioprospección de microorganismos, biomateriales y bioinsumos para el control de fitopatógenos y una agricultura más sostenible, desde la perspectiva de Una Salud.
       filters:
         folders:
           - pesquisa

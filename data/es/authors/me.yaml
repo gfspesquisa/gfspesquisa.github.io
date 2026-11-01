@@ -1,17 +1,18 @@
 # Versión en español del perfil. Estos campos reemplazan a los del portugués (data/authors/me.yaml)
 # en el sitio en español. Los campos omitidos (nombre, foto, enlaces...) vienen del archivo en portugués.
 role: Estudiante de Ingeniería Agronómica
-bio: 'Soy estudiante de Ingeniería Agronómica en la Facultad de Ingeniería de Ilha Solteira (FEIS/UNESP), Brasil. Mi investigación busca entender cómo los hongos y otros microorganismos pueden contribuir a una agricultura más sostenible: desde el aprovechamiento del sustrato poscultivo de hongos comestibles como biofertilizante hasta bioinsumos microbianos y compuestos naturales con acción antifúngica. Participo en proyectos con colaboradores nacionales e internacionales, con apoyo del CNPq y de UK Research and Innovation.'
+bio: 'Soy estudiante de Ingeniería Agronómica en la Facultad de Ingeniería de Ilha Solteira (FEIS/UNESP), Brasil. Trabajo en micología, fitopatología y microbiología del suelo desde la perspectiva de Una Salud (One Health), que integra la salud de las plantas, las personas y el ambiente. Mi investigación abarca la bioprospección de microorganismos para el control de fitopatógenos, el uso de biomateriales y productos naturales contra hongos fitopatógenos y el aprovechamiento de residuos de la fungicultura como bioinsumos. Participo en proyectos con colaboradores nacionales e internacionales, con apoyo del CNPq y de UK Research and Innovation.'
 user_groups:
   - Investigador responsable
 affiliations:
   - name: FEIS/UNESP — Facultad de Ingeniería de Ilha Solteira
     url: https://www.feis.unesp.br/
 interests:
+  - Una Salud (One Health)
   - Micología y fitopatología
-  - Microbiología del suelo
-  - Bioinsumos
-  - Productos naturales antifúngicos
+  - Bioprospección de microorganismos
+  - Biomateriales y productos naturales antifúngicos
+  - Microbiología del suelo y bioinsumos
   - Agricultura sostenible
 education:
   - degree: Grado en Ingeniería Agronómica

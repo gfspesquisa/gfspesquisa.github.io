@@ -15,7 +15,7 @@ sections:
           url: noticias/2026-10-iums-2026-lisboa/
       eyebrow: Divulgación científica · FEIS-UNESP
       title: Hongos, suelo y [ciencia que llega a la sociedad]
-      text: Investigación en micología, microbiología del suelo y bioinsumos, contada de forma sencilla para quien cultiva, estudia o simplemente tiene curiosidad.
+      text: Investigación en micología, fitopatología y microbiología del suelo desde la perspectiva de Una Salud, contada de forma sencilla para quien cultiva, estudia o simplemente tiene curiosidad.
       primary_action:
         text: Conoce la investigación
         url: investigacion/
@@ -31,21 +31,21 @@ sections:
   - block: features
     content:
       title: Qué investigo
-      text: 'Cuatro frentes, un objetivo común: una agricultura que dependa menos de químicos y aproveche mejor lo que ofrece la naturaleza.'
+      text: 'Cuatro frentes y un mismo eje, Una Salud (One Health): la salud de las plantas, las personas y el ambiente está conectada.'
       subtitle: Líneas de investigación
       items:
-        - name: Economía circular con hongos comestibles
-          description: El sustrato que queda del cultivo de *Pleurotus ostreatus* se convierte en fuente de nutrientes para las plantas.
-          icon: arrow-path
-        - name: Control natural de hongos
-          description: Propóleo rojo y nanomateriales contra hongos que atacan el maíz y hongos de importancia clínica.
+        - name: Bioprospección de microorganismos
+          description: Búsqueda de microorganismos con potencial para el control de fitopatógenos.
+          icon: magnifying-glass
+        - name: Biomateriales contra hongos fitopatógenos
+          description: Propóleo rojo y compuestos con plata para el control de hongos como *Fusarium verticillioides*.
           icon: shield-check
-        - name: Bioinsumos microbianos
-          description: Bacterias como *Azospirillum* y *Bacillus* al servicio del crecimiento de las plantas.
+        - name: Residuos de la fungicultura como bioinsumos
+          description: El sustrato poscultivo de *Pleurotus ostreatus* como biofertilizante y acondicionador de sustrato.
+          icon: arrow-path
+        - name: Microorganismos benéficos en la producción vegetal
+          description: Bacterias como *Bacillus* y hongos micorrícicos en el crecimiento de las plantas y la producción de plántulas.
           icon: beaker
-        - name: Abejas sin aguijón
-          description: Caracterización de la miel de jataí (*Tetragonisca angustula*).
-          icon: bug-ant
     design:
       layout: grid
     id: linhas

@@ -6,7 +6,7 @@ name:
   given: Gabriel Felix
   family: da Silva
 role: Graduando em Engenharia Agronômica
-bio: 'Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Minha pesquisa busca entender como fungos e outros micro-organismos podem contribuir para uma agricultura mais sustentável: do aproveitamento do substrato pós-cultivo de cogumelos como biofertilizante a bioinsumos microbianos e compostos naturais com ação antifúngica. Participo de projetos com colaboradores nacionais e internacionais, com apoio do CNPq e da UK Research and Innovation.'
+bio: 'Sou graduando em Engenharia Agronômica na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Atuo em micologia, fitopatologia e microbiologia do solo, sob a perspectiva da Saúde Única (One Health), que integra a saúde das plantas, das pessoas e do ambiente. Minha pesquisa envolve a bioprospecção de microrganismos para o controle de fitopatógenos, o uso de biomateriais e produtos naturais no controle de fungos fitopatogênicos e o aproveitamento de resíduos da fungicultura como bioinsumos. Participo de projetos com colaboradores nacionais e internacionais, com apoio do CNPq e da UK Research and Innovation.'
 user_groups:
   - Pesquisador responsável
 foto: me.jpg
@@ -25,10 +25,11 @@ links:
     url: https://linktr.ee/gfspesquisa
     label: Instagram
 interests:
+  - Saúde Única (One Health)
   - Micologia e fitopatologia
-  - Microbiologia do solo
-  - Bioinsumos
-  - Produtos naturais antifúngicos
+  - Bioprospecção de microrganismos
+  - Biomateriais e produtos naturais antifúngicos
+  - Microbiologia do solo e bioinsumos
   - Agricultura sustentável
 education:
   - degree: Bacharelado em Engenharia Agronômica
