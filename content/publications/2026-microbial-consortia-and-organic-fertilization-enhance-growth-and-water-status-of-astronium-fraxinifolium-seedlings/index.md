@@ -6,11 +6,11 @@ authors:
   - Dirceu Fernandes
   - Kátia Maltoni
   - Ana Maria Rodrigues Cassiolato
-date: 2026-10-26
+date: 2026-11-04
 publication_types:
   - paper-conference
 publication:
-  name: 'IUMS 2026 – International Union of Microbiological Societies Congress, Lisbon, Portugal, 4–6 November 2026 (AS18. Microbes for Sustainable Agriculture) – accepted abstract'
+  name: 'IUMS 2026 – International Union of Microbiological Societies Congress, Lisbon, Portugal, 4–6 November 2026 (AS18. Microbes for Sustainable Agriculture) – poster'
 summary: 'Composted sewage sludge, Bacillus subtilis and Rhizophagus clarus in the production of native tree seedlings.'
 tags:
   - Bioinputs

@@ -27,6 +27,6 @@ El tercero va a la sesión *Microbes for Sustainable Agriculture*:
 
 3. **Microorganismos y fertilización orgánica en plántulas de *Astronium fraxinifolium*:** el lodo de depuradora compostado mezclado con bagazo de caña se combinó con la bacteria *Bacillus subtilis* y el hongo micorrícico *Rhizophagus clarus*. Evaluamos el crecimiento, la calidad y el uso del agua de las plántulas. El trabajo lo lidera Philippe Silva, en colaboración entre la FEIS/UNESP y la FCA/UNESP de Botucatu. Título: *Microbial consortia and organic fertilization enhance growth and water status of Astronium fraxinifolium seedlings*.
 
-Los detalles del congreso estarán en Instagram, y los resúmenes se agregarán a la página de [Publicaciones](/es/publicaciones/) después del evento.
+Los tres resúmenes están en la página de [Publicaciones](/es/publicaciones/). **Actualización:** vea [lo más destacado de los tres días del congreso](/es/noticias/2026-11-iums-2026-destaques/).
 
 Más información sobre el congreso: [iums2026.com](https://iums2026.com).

@@ -9,10 +9,10 @@ sections:
         badge:
           text: Novedad
           color: green
-        text: Tres trabajos en el IUMS 2026, en Lisboa.
+        text: Lo más destacado del IUMS 2026, en Lisboa.
         link:
           text: Más información
-          url: noticias/2026-10-iums-2026-lisboa/
+          url: noticias/2026-11-iums-2026-destaques/
       eyebrow: Divulgación científica · FEIS-UNESP
       title: Hongos, suelo y [ciencia que llega a la sociedad]
       text: Investigación en micología, fitopatología y microbiología del suelo desde la perspectiva de Una Salud, contada de forma sencilla para quien cultiva, estudia o simplemente tiene curiosidad.

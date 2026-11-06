@@ -7,11 +7,11 @@ authors:
   - Ana Maria Rodrigues Cassiolato
   - Ligia Maria Manzine Costa
   - Paulo Cesar Ceresini
-date: 2026-10-26
+date: 2026-11-04
 publication_types:
   - paper-conference
 publication:
-  name: 'IUMS 2026 – International Union of Microbiological Societies Congress, Lisbon, Portugal, 4–6 November 2026 (AS12. Innovative Antimicrobial Approaches) – accepted abstract'
+  name: 'IUMS 2026 – International Union of Microbiological Societies Congress, Lisbon, Portugal, 4–6 November 2026 (AS12. Innovative Antimicrobial Approaches) – poster'
 summary: 'Brazilian red propolis extract from Alagoas evaluated at different concentrations against Fusarium verticillioides.'
 tags:
   - Fusarium verticillioides

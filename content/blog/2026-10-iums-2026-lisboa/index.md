@@ -27,6 +27,6 @@ O terceiro vai para a sessão *Microbes for Sustainable Agriculture*:
 
 3. **Microrganismos e adubação orgânica na produção de mudas de gonçalo-alves** (*Astronium fraxinifolium*): o lodo de esgoto compostado misturado ao bagaço de cana foi combinado com a bactéria *Bacillus subtilis* e o fungo micorrízico *Rhizophagus clarus*. Avaliamos o crescimento, a qualidade e o uso da água pelas mudas. O trabalho é liderado por Philippe Silva, em parceria entre a FEIS/UNESP e a FCA/UNESP de Botucatu. Título: *Microbial consortia and organic fertilization enhance growth and water status of Astronium fraxinifolium seedlings*.
 
-Os bastidores do congresso vão para o Instagram, e os resumos serão adicionados à página de [Publicações](/publicacoes/) depois do evento.
+Os três resumos estão na página de [Publicações](/publicacoes/). **Atualização:** veja os [destaques dos três dias de congresso](/noticias/2026-11-iums-2026-destaques/).
 
 Mais informações sobre o congresso: [iums2026.com](https://iums2026.com).

@@ -27,6 +27,6 @@ The third one is in the *Microbes for Sustainable Agriculture* session:
 
 3. **Microbial consortia and organic fertilization in *Astronium fraxinifolium* seedlings:** composted sewage sludge mixed with sugarcane bagasse was combined with the bacterium *Bacillus subtilis* and the mycorrhizal fungus *Rhizophagus clarus*. We evaluated seedling growth, quality and water use. The study is led by Philippe Silva, in a partnership between FEIS/UNESP and FCA/UNESP in Botucatu. Title: *Microbial consortia and organic fertilization enhance growth and water status of Astronium fraxinifolium seedlings*.
 
-Behind-the-scenes updates will be on Instagram, and the abstracts will be added to the [Publications](/en/publications/) page after the event.
+The three abstracts are on the [Publications](/en/publications/) page. **Update:** see the [highlights from the three days of the congress](/en/news/2026-11-iums-2026-destaques/).
 
 More about the congress: [iums2026.com](https://iums2026.com).
