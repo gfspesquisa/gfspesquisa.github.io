@@ -54,6 +54,14 @@ Levaduras no convencionales y cerveceras, nutracéuticos de *Ganoderma lucidum*,
 - **Susanne Zeilinger** (Universität Innsbruck): *Chemical communication shapes fungal biocontrol: insights from Trichoderma atroviride*.
 - **Julia Gallego Villanueva et al.** (Universidad de Cádiz): MALDI-TOF para identificar especies y cepas de hongos fitopatógenos.
 
+## Una noche en la Academia de Ciencias de Lisboa (5 de noviembre)
+
+Al final del segundo día, el programa social reunió a los participantes en el Largo Luís de Camões, en el Chiado, para una caminata hasta la [Academia de Ciencias de Lisboa](https://www.acad-ciencias.pt/). Fundada en 1779, la Academia funciona desde 1834 en el antiguo Convento de Jesús. La noche terminó con fado en el Salão Nobre, entre las estanterías de la antigua biblioteca del convento.
+
+![Gabriel Felix da Silva en el Salão Nobre de la Academia de Ciencias de Lisboa](academia-ciencias-lisboa.jpg "Salão Nobre de la Academia de Ciencias de Lisboa.")
+
+El lema de la Academia resume bien el propósito de la divulgación científica: *Nisi utile est quod facimus, stulta est gloria* ("Si lo que hacemos no es útil, la gloria es vana").
+
 ## Día 3 (6 de noviembre)
 
 El último día situó la inteligencia artificial en el centro del programa. En la sesión *AI's Global Impact*, **Tiago Costa** (Imperial College London) presentó *AI Recapitulates Experimental Discovery of a Novel Gene Transfer Mechanism*. La jornada incluyó además sesiones de *Big Data*, de IA en microbiología clínica y Una Salud, y los paneles *Will AI win?* e *Is data dead?*.

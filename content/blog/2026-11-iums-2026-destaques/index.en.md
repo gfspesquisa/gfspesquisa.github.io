@@ -54,6 +54,14 @@ Non-conventional and brewing yeasts, *Ganoderma lucidum* nutraceuticals, ferment
 - **Susanne Zeilinger** (Universität Innsbruck): *Chemical communication shapes fungal biocontrol: insights from Trichoderma atroviride*.
 - **Julia Gallego Villanueva et al.** (University of Cádiz): MALDI-TOF for identifying fungal phytopathogen species and strains.
 
+## An evening at the Lisbon Academy of Sciences (5 November)
+
+At the end of the second day, the social programme gathered participants at Largo Luís de Camões, in Chiado, for a walk to the [Lisbon Academy of Sciences](https://www.acad-ciencias.pt/eng/). Founded in 1779, the Academy has been housed in the former Convent of Jesus since 1834. The evening ended with fado in the Salão Nobre, among the shelves of the convent's old library.
+
+![Gabriel Felix da Silva in the Salão Nobre of the Lisbon Academy of Sciences](academia-ciencias-lisboa.jpg "Salão Nobre, Lisbon Academy of Sciences.")
+
+The Academy's motto sums up the purpose of science communication well: *Nisi utile est quod facimus, stulta est gloria* ("If what we do is not useful, glory is in vain").
+
 ## Day 3 (6 November)
 
 The final day placed artificial intelligence at the core of the programme. In the *AI's Global Impact* session, **Tiago Costa** (Imperial College London) presented *AI Recapitulates Experimental Discovery of a Novel Gene Transfer Mechanism*. The day also included sessions on *Big Data*, AI in clinical microbiology and One Health, and the panels *Will AI win?* and *Is data dead?*.
