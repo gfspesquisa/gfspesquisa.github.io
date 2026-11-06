@@ -58,6 +58,18 @@ Non-conventional and brewing yeasts, *Ganoderma lucidum* nutraceuticals, ferment
 
 The final day placed artificial intelligence at the core of the programme. In the *AI's Global Impact* session, **Tiago Costa** (Imperial College London) presented *AI Recapitulates Experimental Discovery of a Novel Gene Transfer Mechanism*. The day also included sessions on *Big Data*, AI in clinical microbiology and One Health, and the panels *Will AI win?* and *Is data dead?*.
 
+## Our posters (6 November)
+
+On the final day, I presented our work in the poster session.
+
+![Gabriel Felix da Silva next to the posters at IUMS 2026](posteres-iums2026.jpg "Poster presentation at IUMS 2026 in Lisbon.")
+
+- **Silver-doped dolomite against *Fusarium verticillioides*** (session AS12): the composite inhibited the fungus in a dose-dependent way from 175 ppm Ag⁺ (EC₅₀ ≈ 258 ppm; 78–80% inhibition at 525–700 ppm). Pure dolomite did not inhibit the fungus, showing that the effect comes from silver. [View poster](/uploads/posters/IUMS2026_Poster_SilverDolomite_Fverticillioides.pdf)
+- **Alagoas red propolis against *F. verticillioides*** (session AS12): the extract inhibited the fungus at every concentration tested (relative IC₅₀ 3.99–5.74 ppm), with maximum inhibition of about 78% from 75 ppm, in two independent assays. [View poster](/uploads/posters/IUMS2026_Poster_RedPropolis_Fverticillioides.pdf)
+- **Microbial consortia and organic fertilization in *Astronium fraxinifolium* seedlings** (session AS18, led by Philippe Silva): composted sewage sludge was the main driver of seedling quality, and inoculation with *Bacillus subtilis* and *Rhizophagus clarus* increased root colonization and water use efficiency. [View poster](/uploads/posters/IUMS2026_Poster_MicrobialConsortia_Afraxinifolium.pdf)
+
+Many thanks to the co-authors, advisors and research groups at FEIS/UNESP.
+
 ## What I take back to our research
 
 Antimicrobial resistance and **One Health** ran through all three days. This is the same thread as our work on *Fusarium verticillioides* and *Aspergillus fumigatus*: finding alternatives to fungicides that protect crop production without increasing risks to human health. Our three studies presented at the congress are on the [Publications](/en/publications/) page.

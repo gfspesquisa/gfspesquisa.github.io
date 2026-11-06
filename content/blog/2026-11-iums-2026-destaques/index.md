@@ -58,6 +58,18 @@ Leveduras não convencionais e cervejeiras, nutracêuticos de *Ganoderma lucidum
 
 O último dia teve a inteligência artificial no centro da programação. Na sessão *AI's Global Impact*, **Tiago Costa** (Imperial College London) apresentou *AI Recapitulates Experimental Discovery of a Novel Gene Transfer Mechanism*. A programação incluiu ainda sessões de *Big Data*, de IA na microbiologia clínica e na Saúde Única, e os painéis *Will AI win?* e *Is data dead?*.
 
+## Nossos pôsteres (6 de novembro)
+
+No último dia, apresentei os nossos trabalhos na sessão de pôsteres.
+
+![Gabriel Felix da Silva ao lado dos pôsteres no IUMS 2026](posteres-iums2026.jpg "Apresentação dos pôsteres no IUMS 2026, em Lisboa.")
+
+- **Dolomita dopada com prata contra *Fusarium verticillioides*** (sessão AS12): o compósito inibiu o fungo de forma dose-dependente a partir de 175 ppm de Ag⁺ (CE₅₀ ≈ 258 ppm; 78–80% de inibição com 525–700 ppm). A dolomita pura não inibiu o fungo, o que mostra que o efeito vem da prata. [Ver pôster](/uploads/posters/IUMS2026_Poster_SilverDolomite_Fverticillioides.pdf)
+- **Própolis vermelha de Alagoas contra *F. verticillioides*** (sessão AS12): o extrato inibiu o fungo em todas as concentrações testadas (CI₅₀ relativa de 3,99–5,74 ppm), com inibição máxima de cerca de 78% a partir de 75 ppm, em dois ensaios independentes. [Ver pôster](/uploads/posters/IUMS2026_Poster_RedPropolis_Fverticillioides.pdf)
+- **Consórcios microbianos e adubação orgânica em mudas de *Astronium fraxinifolium*** (sessão AS18, liderado por Philippe Silva): o lodo de esgoto compostado foi o principal fator de qualidade das mudas, e a inoculação com *Bacillus subtilis* e *Rhizophagus clarus* aumentou a colonização radicular e o uso eficiente da água. [Ver pôster](/uploads/posters/IUMS2026_Poster_MicrobialConsortia_Afraxinifolium.pdf)
+
+Agradeço aos coautores, às orientadoras e aos grupos de pesquisa da FEIS/UNESP.
+
 ## O que levo para a nossa pesquisa
 
 A resistência antimicrobiana e a **Saúde Única** atravessaram os três dias. Esse é o mesmo eixo dos nossos trabalhos com *Fusarium verticillioides* e *Aspergillus fumigatus*: buscar alternativas aos fungicidas que protejam a produção agrícola sem ampliar riscos à saúde humana. Os três trabalhos que levamos ao congresso estão na página de [Publicações](/publicacoes/).

@@ -58,6 +58,18 @@ Levaduras no convencionales y cerveceras, nutracéuticos de *Ganoderma lucidum*,
 
 El último día situó la inteligencia artificial en el centro del programa. En la sesión *AI's Global Impact*, **Tiago Costa** (Imperial College London) presentó *AI Recapitulates Experimental Discovery of a Novel Gene Transfer Mechanism*. La jornada incluyó además sesiones de *Big Data*, de IA en microbiología clínica y Una Salud, y los paneles *Will AI win?* e *Is data dead?*.
 
+## Nuestros pósteres (6 de noviembre)
+
+El último día presenté nuestros trabajos en la sesión de pósteres.
+
+![Gabriel Felix da Silva junto a los pósteres en el IUMS 2026](posteres-iums2026.jpg "Presentación de los pósteres en el IUMS 2026, en Lisboa.")
+
+- **Dolomita dopada con plata contra *Fusarium verticillioides*** (sesión AS12): el compuesto inhibió el hongo de forma dosis-dependiente a partir de 175 ppm de Ag⁺ (CE₅₀ ≈ 258 ppm; 78–80% de inhibición con 525–700 ppm). La dolomita pura no inhibió el hongo, lo que muestra que el efecto proviene de la plata. [Ver póster](/uploads/posters/IUMS2026_Poster_SilverDolomite_Fverticillioides.pdf)
+- **Propóleo rojo de Alagoas contra *F. verticillioides*** (sesión AS12): el extracto inhibió el hongo en todas las concentraciones probadas (CI₅₀ relativa de 3,99–5,74 ppm), con una inhibición máxima de alrededor del 78% a partir de 75 ppm, en dos ensayos independientes. [Ver póster](/uploads/posters/IUMS2026_Poster_RedPropolis_Fverticillioides.pdf)
+- **Consorcios microbianos y fertilización orgánica en plántulas de *Astronium fraxinifolium*** (sesión AS18, liderado por Philippe Silva): el lodo de depuradora compostado fue el principal factor de calidad de las plántulas, y la inoculación con *Bacillus subtilis* y *Rhizophagus clarus* aumentó la colonización radicular y la eficiencia en el uso del agua. [Ver póster](/uploads/posters/IUMS2026_Poster_MicrobialConsortia_Afraxinifolium.pdf)
+
+Agradezco a los coautores, a las orientadoras y a los grupos de investigación de la FEIS/UNESP.
+
 ## Lo que llevo a nuestra investigación
 
 La resistencia antimicrobiana y **Una Salud** atravesaron los tres días. Es el mismo eje de nuestros trabajos con *Fusarium verticillioides* y *Aspergillus fumigatus*: buscar alternativas a los fungicidas que protejan la producción agrícola sin aumentar los riesgos para la salud humana. Los tres trabajos que llevamos al congreso están en la página de [Publicaciones](/es/publicaciones/).
