@@ -9,10 +9,10 @@ sections:
         badge:
           text: Novidade
           color: green
-        text: Destaques do IUMS 2026, em Lisboa.
+        text: Visita à sede da FAO, em Roma.
         link:
           text: Saiba mais
-          url: noticias/2026-11-iums-2026-destaques/
+          url: noticias/2026-11-visita-sede-fao-roma/
       eyebrow: Divulgação científica · FEIS-UNESP
       title: Fungos, solo e [ciência que chega à sociedade]
       text: Pesquisa em micologia, fitopatologia e microbiologia do solo, sob a perspectiva da Saúde Única, contada de um jeito simples para quem planta, estuda ou só tem curiosidade.

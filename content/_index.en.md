@@ -9,10 +9,10 @@ sections:
         badge:
           text: News
           color: green
-        text: Highlights from IUMS 2026 in Lisbon.
+        text: Visit to FAO headquarters in Rome.
         link:
           text: Read more
-          url: news/2026-11-iums-2026-destaques/
+          url: news/2026-11-visita-sede-fao-roma/
       eyebrow: Science outreach · FEIS-UNESP
       title: Fungi, soil and [science that reaches society]
       text: Research in mycology, plant pathology and soil microbiology from a One Health perspective, explained simply for farmers, students and anyone curious.
