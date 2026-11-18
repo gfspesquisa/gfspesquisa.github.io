@@ -1,6 +1,6 @@
 ---
-title: Menção honrosa no XXXVIII CIC Unesp
-summary: O trabalho sobre o composto que sobra do cultivo do cogumelo-ostra recebeu menção honrosa na 1ª fase do Congresso de Iniciação Científica da Unesp e foi classificado para a 2ª fase.
+title: Menção honrosa pelo 2º lugar no XXXVIII CIC Unesp
+summary: O trabalho sobre o composto que sobra do cultivo do cogumelo-ostra recebeu menção honrosa pelo 2º lugar na 1ª fase do Congresso de Iniciação Científica da Unesp e foi classificado para a 2ª fase.
 date: 2026-09-24
 authors:
   - me
@@ -14,9 +14,11 @@ tags:
   - Pleurotus ostreatus
 ---
 
-Nosso trabalho **"Caracterização nutricional de composto exaurido de *Pleurotus ostreatus* para aplicação como biofertilizante"** recebeu **menção honrosa** na 1ª fase do **XXXVIII Congresso de Iniciação Científica da Unesp (CIC)**. A etapa aconteceu em Ilha Solteira (SP), nos dias 23 e 24 de setembro de 2026. Com a menção, o trabalho foi **classificado para a 2ª fase** do evento.
+Nosso trabalho **"Caracterização nutricional de composto exaurido de *Pleurotus ostreatus* para aplicação como biofertilizante"** recebeu **menção honrosa pelo 2º lugar** na 1ª fase do **XXXVIII Congresso de Iniciação Científica da Unesp (CIC)**. A etapa aconteceu em Ilha Solteira (SP), nos dias 23 e 24 de setembro de 2026. Com a menção, o trabalho foi **classificado para a 2ª fase** do evento.
 
 O tema desta edição foi *Unesp 50 Anos: Ciência, Formação, Inovação e Transformação nos Territórios*.
+
+![Certificado de menção honrosa pelo 2º lugar no XXXVIII CIC Unesp](certificado-mencao-honrosa-cic2026.jpg "Certificado de menção honrosa pelo 2º lugar na 1ª fase.")
 
 ![Slide de abertura da apresentação no XXXVIII CIC Unesp](slide-titulo-cic.jpg "Slide de abertura da apresentação.")
 
@@ -24,6 +26,6 @@ O tema desta edição foi *Unesp 50 Anos: Ciência, Formação, Inovação e Tra
 
 Depois da colheita do cogumelo-ostra, sobra um grande volume de substrato, o composto exaurido. Neste trabalho, analisamos a composição nutricional desse material para avaliar o seu uso como **biofertilizante**: um resíduo que volta ao campo como fonte de nutrientes para as plantas. Saiba mais na página do [projeto de pesquisa](/pesquisa/substrato-pleurotus/).
 
-**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo Silva e Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
+**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo da Silva e Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
 Agradeço à minha orientadora, Profa. Dra. Ana Maria Rodrigues Cassiolato, aos colegas do Laboratório de Microbiologia da FEIS/UNESP e do DEFERS, e aos parceiros Funghi & Flora e Cogumelos Coloniais.
