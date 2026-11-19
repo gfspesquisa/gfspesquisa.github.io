@@ -6,7 +6,7 @@ authors:
   - Higor Silva
   - Ana Maria Rodrigues Cassiolato
   - Ligia Maria Manzine Costa
-  - Paulo Cesar Ceresini
+  - paulo-ceresini
 date: 2026-11-04
 publication_types:
   - paper-conference

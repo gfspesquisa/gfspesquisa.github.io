@@ -1,0 +1,14 @@
+# Versión en español de este perfil (reemplaza los campos en portugués en el sitio en español).
+role: Orientador
+bio: Profesor asociado de la Facultad de Ingeniería de Ilha Solteira (FEIS/UNESP), en el Departamento de Fitosanidad, Ingeniería Rural y Suelos, y becario de productividad en investigación del CNPq. Trabaja en fitopatología, con énfasis en la genética y evolución de fitopatógenos, la epidemiología y la resistencia a fungicidas, incluida la resistencia antifúngica ambiental en Aspergillus fumigatus desde la perspectiva de Una Salud.
+user_groups:
+  - Orientación
+interests:
+  - Fitopatología
+  - Genética y evolución de fitopatógenos
+  - Resistencia a fungicidas
+  - Una Salud
+education:
+  - degree: Doctorado en Fitopatología
+    institution: North Carolina State University, Estados Unidos
+    end: '2000'

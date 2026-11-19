@@ -1,0 +1,14 @@
+# English version of this profile (replaces the Portuguese fields on the English site).
+role: Supervisor
+bio: Associate professor at the School of Engineering of Ilha Solteira (FEIS/UNESP), Department of Plant Protection, Rural Engineering and Soils, and CNPq research productivity fellow. He works in plant pathology, with emphasis on the genetics and evolution of plant pathogens, epidemiology and fungicide resistance, including environmental antifungal resistance in Aspergillus fumigatus from a One Health perspective.
+user_groups:
+  - Supervision
+interests:
+  - Plant pathology
+  - Genetics and evolution of plant pathogens
+  - Fungicide resistance
+  - One Health
+education:
+  - degree: PhD in Plant Pathology
+    institution: North Carolina State University, United States
+    end: '2000'

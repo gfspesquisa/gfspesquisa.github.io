@@ -1,0 +1,29 @@
+schema: hugoblox/author/v1
+slug: paulo-ceresini
+is_owner: false
+name:
+  display: Paulo Cezar Ceresini
+  given: Paulo Cezar
+  family: Ceresini
+role: Orientador
+bio: Professor associado da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP), no Departamento de Fitossanidade, Engenharia Rural e Solos, e bolsista de produtividade em pesquisa do CNPq. Atua em fitopatologia, com ênfase na genética e evolução de fitopatógenos, epidemiologia e resistência a fungicidas, incluindo a resistência antifúngica ambiental em Aspergillus fumigatus sob a perspectiva da Saúde Única.
+user_groups:
+  - Orientação
+foto: paulo-ceresini.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/#!/defers
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/2635092058300854
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2381-2792
+interests:
+  - Fitopatologia
+  - Genética e evolução de fitopatógenos
+  - Resistência a fungicidas
+  - Saúde Única
+education:
+  - degree: Doutorado em Fitopatologia (Plant Pathology)
+    institution: North Carolina State University, Estados Unidos.
+    end: '2000'
