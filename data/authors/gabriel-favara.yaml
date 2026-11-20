@@ -1,0 +1,28 @@
+schema: hugoblox/author/v1
+slug: gabriel-favara
+is_owner: false
+name:
+  display: Gabriel Madoglio Favara
+  given: Gabriel
+  family: Madoglio Favara
+role: Professor colaborador
+bio: Professor da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP), no Departamento de Fitossanidade, Engenharia Rural e Solos, e doutor em Agronomia pela Universidade de São Paulo. Atua em fitossanidade, com pesquisas sobre vírus de plantas transmitidos por moscas-brancas, endossimbiontes de insetos e RNA de interferência no controle de pragas. Colabora nos trabalhos sobre a atividade antifúngica de materiais dopados com prata contra Fusarium verticillioides.
+user_groups:
+  - Colaboradores
+foto: gabriel-favara.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/#!/defers
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/1161192281361011
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-2809-5692
+interests:
+  - Fitossanidade
+  - Vírus de plantas e insetos vetores
+  - RNA de interferência no controle de pragas
+education:
+  - degree: Doutorado em Agronomia
+    institution: Universidade de São Paulo, USP, Brasil.
+    end: '2022'

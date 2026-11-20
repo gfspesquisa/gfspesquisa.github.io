@@ -6,7 +6,7 @@ authors:
   - Caroline da Cruz Martines
   - Ana Maria Rodrigues Cassiolato
   - ligia-costa
-  - Gabriel Madoglio Favara
+  - gabriel-favara
 date: 2026-11-04
 publication_types:
   - paper-conference

@@ -1,0 +1,13 @@
+# Versión en español de este perfil (reemplaza los campos en portugués en el sitio en español).
+role: Profesor colaborador
+bio: Profesor de la Facultad de Ingeniería de Ilha Solteira (FEIS/UNESP), en el Departamento de Fitosanidad, Ingeniería Rural y Suelos, y doctor en Agronomía por la Universidad de São Paulo. Trabaja en fitosanidad, con investigaciones sobre virus de plantas transmitidos por moscas blancas, endosimbiontes de insectos y ARN de interferencia para el control de plagas. Colabora en los trabajos sobre la actividad antifúngica de materiales dopados con plata contra Fusarium verticillioides.
+user_groups:
+  - Colaboradores
+interests:
+  - Fitosanidad
+  - Virus de plantas e insectos vectores
+  - ARN de interferencia para el control de plagas
+education:
+  - degree: Doctorado en Agronomía
+    institution: Universidad de São Paulo (USP), Brasil
+    end: '2022'

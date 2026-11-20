@@ -1,0 +1,13 @@
+# English version of this profile (replaces the Portuguese fields on the English site).
+role: Collaborating professor
+bio: Professor at the School of Engineering of Ilha Solteira (FEIS/UNESP), Department of Plant Protection, Rural Engineering and Soils, with a PhD in Agronomy from the University of São Paulo. He works in plant protection, researching whitefly-transmitted plant viruses, insect endosymbionts and RNA interference for pest control. He collaborates on the studies of the antifungal activity of silver-doped materials against Fusarium verticillioides.
+user_groups:
+  - Collaborators
+interests:
+  - Plant protection
+  - Plant viruses and insect vectors
+  - RNA interference for pest control
+education:
+  - degree: PhD in Agronomy
+    institution: University of São Paulo (USP), Brazil
+    end: '2022'
