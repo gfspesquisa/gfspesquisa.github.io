@@ -8,6 +8,10 @@ tags:
   - Antifungal resistance
   - Natural products
 links: []
+image:
+  caption: 'Red propolis extract in a mycelial growth assay, with doses up to 150 ppm.'
+  focal_point: Center
+
 ---
 
 *Aspergillus fumigatus* is a common environmental fungus that can cause serious infections in people

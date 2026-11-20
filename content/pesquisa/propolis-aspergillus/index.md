@@ -8,6 +8,10 @@ tags:
   - Resistência antifúngica
   - Produtos naturais
 links: []
+image:
+  caption: 'Extrato de própolis vermelha em ensaio de crescimento micelial, com doses de até 150 ppm.'
+  focal_point: Center
+
 ---
 
 *Aspergillus fumigatus* é um fungo comum no ambiente que pode causar infecções graves em

@@ -8,6 +8,10 @@ tags:
   - Resistencia antifúngica
   - Productos naturales
 links: []
+image:
+  caption: 'Extracto de propóleo rojo en un ensayo de crecimiento micelial, con dosis de hasta 150 ppm.'
+  focal_point: Center
+
 ---
 
 *Aspergillus fumigatus* es un hongo común en el ambiente que puede causar infecciones graves en

@@ -8,6 +8,10 @@ tags:
   - Azospirillum
   - Bacillus
 links: []
+image:
+  caption: 'Illustration: Bacillus and Azospirillum bacteria around the roots (rhizosphere).'
+  focal_point: Center
+
 ---
 
 Bacteria such as ***Azospirillum*** and ***Bacillus*** help plants grow: they promote root

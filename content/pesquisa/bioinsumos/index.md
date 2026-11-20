@@ -8,6 +8,10 @@ tags:
   - Azospirillum
   - Bacillus
 links: []
+image:
+  caption: 'Ilustração: bactérias Bacillus e Azospirillum na região das raízes (rizosfera).'
+  focal_point: Center
+
 ---
 
 Bactérias como ***Azospirillum*** e ***Bacillus*** ajudam as plantas a crescer: favorecem o
