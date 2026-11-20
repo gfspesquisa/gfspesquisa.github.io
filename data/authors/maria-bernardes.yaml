@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: maria-bernardes
+is_owner: false
+name:
+  display: Maria Victória dos Reis Bernardes
+  given: Maria Victória
+  family: dos Reis Bernardes
+role: Bióloga
+bio: Formada em Ciências Biológicas (licenciatura e bacharelado) pela UNESP, câmpus de Ilha Solteira. Foi bolsista do programa COPE Conecta no projeto de extensão Inventário Arbóreo da FEIS, com ênfase em Botânica, e bolsista da FAPESP em Genética Molecular de animais de produção. No trabalho de conclusão de curso, estudou o efeito da temperatura em juvenis de Brycon orbignyanus, com análises histológicas dos rins e de genes associados ao estresse térmico.
+user_groups:
+  - Colaboradores
+foto: maria-bernardes.jpg
+affiliations:
+  - name: UNESP Ilha Solteira
+    url: https://www.feis.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/0009322848947721
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0008-9234-6645
+interests:
+  - Botânica
+  - Genética molecular
+  - Estresse térmico em peixes
