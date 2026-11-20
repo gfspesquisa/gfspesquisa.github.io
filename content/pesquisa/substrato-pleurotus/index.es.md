@@ -42,3 +42,5 @@ Los primeros resultados forman parte de un trabajo para el CIC 2026.
 En una línea paralela, evaluamos el látex fresco de papaya (*Carica papaya*), rico en la enzima papaína, para extraer proteínas de la seta ostra. El trabajo se presentó en el **33.º Congreso Brasileño de Microbiología (CBM)**, en 2025.
 
 ![Póster sobre el potencial de la papaína en la extracción de proteínas de Pleurotus ostreatus](poster-papaina-cbm-2025.jpg "Póster presentado en el 33.º CBM (2025).")
+
+[Ver el póster completo (PDF)](/uploads/posters/CBM2025_Poster_Papaina_Pleurotus.pdf)

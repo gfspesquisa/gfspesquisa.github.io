@@ -33,3 +33,5 @@ analyses, and **monitoring of hive temperature**.
 The results were presented at the **33rd Brazilian Congress of Microbiology (CBM)** in Aracaju, in October 2025. In honey samples from five boxes at FEIS/UNESP, mean counts were 1.48 × 10⁴ CFU g⁻¹ for bacteria and yeasts and 5.82 × 10² CFU g⁻¹ for filamentous fungi.
 
 ![Poster on the quantification of microorganisms in jataí honey, presented at the 33rd CBM](poster-cbm-2025.jpg "Poster presented at the 33rd CBM (2025).")
+
+[View the full poster (PDF)](/uploads/posters/CBM2025_Poster_MelJatai_Tetragonisca.pdf)

@@ -42,3 +42,5 @@ The first results are part of a paper for CIC 2026.
 In a parallel line, we evaluated fresh papaya latex (*Carica papaya*), rich in the enzyme papain, to extract proteins from oyster mushrooms. The work was presented at the **33rd Brazilian Congress of Microbiology (CBM)** in 2025.
 
 ![Poster on the potential of papain for extracting proteins from Pleurotus ostreatus](poster-papaina-cbm-2025.jpg "Poster presented at the 33rd CBM (2025).")
+
+[View the full poster (PDF)](/uploads/posters/CBM2025_Poster_Papaina_Pleurotus.pdf)

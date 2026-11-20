@@ -33,3 +33,5 @@ microbiológicas, y el **monitoreo de la temperatura de las colmenas**.
 Los resultados se presentaron en el **33.º Congreso Brasileño de Microbiología (CBM)**, en Aracaju, en octubre de 2025. En las muestras de miel de cinco cajas de la FEIS/UNESP, los recuentos medios fueron de 1,48 × 10⁴ UFC g⁻¹ para bacterias y levaduras y de 5,82 × 10² UFC g⁻¹ para hongos filamentosos.
 
 ![Póster sobre la cuantificación de microorganismos en la miel de jataí, presentado en el 33.º CBM](poster-cbm-2025.jpg "Póster presentado en el 33.º CBM (2025).")
+
+[Ver el póster completo (PDF)](/uploads/posters/CBM2025_Poster_MelJatai_Tetragonisca.pdf)

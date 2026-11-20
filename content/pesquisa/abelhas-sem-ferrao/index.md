@@ -33,3 +33,5 @@ microbiológicas, e o **monitoramento da temperatura das colmeias**.
 Os resultados foram apresentados no **33º Congresso Brasileiro de Microbiologia (CBM)**, em Aracaju, em outubro de 2025. Nas amostras de mel de cinco caixas da FEIS/UNESP, as contagens médias foram de 1,48 × 10⁴ UFC g⁻¹ para bactérias e leveduras e de 5,82 × 10² UFC g⁻¹ para fungos filamentosos.
 
 ![Pôster sobre a quantificação de microrganismos no mel de jataí, apresentado no 33º CBM](poster-cbm-2025.jpg "Pôster apresentado no 33º CBM (2025).")
+
+[Ver o pôster completo (PDF)](/uploads/posters/CBM2025_Poster_MelJatai_Tetragonisca.pdf)

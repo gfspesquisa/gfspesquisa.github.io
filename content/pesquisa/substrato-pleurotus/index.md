@@ -42,3 +42,5 @@ Os primeiros resultados compõem um trabalho no CIC 2026.
 Em uma linha paralela, avaliamos o látex fresco de mamão (*Carica papaya*), rico na enzima papaína, para extrair proteínas do cogumelo-ostra. O trabalho foi apresentado no **33º Congresso Brasileiro de Microbiologia (CBM)**, em 2025.
 
 ![Pôster sobre o potencial da papaína na extração de proteínas de Pleurotus ostreatus](poster-papaina-cbm-2025.jpg "Pôster apresentado no 33º CBM (2025).")
+
+[Ver o pôster completo (PDF)](/uploads/posters/CBM2025_Poster_Papaina_Pleurotus.pdf)
