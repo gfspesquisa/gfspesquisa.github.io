@@ -1,7 +1,7 @@
 ---
 title: 'Microbial consortia and organic fertilization enhance growth and water status of Astronium fraxinifolium seedlings'
 authors:
-  - Philippe Solano Toledo Silva
+  - philippe-silva
   - me
   - Dirceu Fernandes
   - Kátia Maltoni

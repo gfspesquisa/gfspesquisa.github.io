@@ -26,6 +26,6 @@ This year's theme was *Unesp 50 Years: Science, Education, Innovation and Transf
 
 After oyster mushrooms are harvested, a large volume of growing substrate is left over: the spent compost. In this study, we analyzed its nutritional composition to assess its use as a **biofertilizer**, turning a residue into a source of nutrients for plants. Learn more on the [research project](/en/research/substrato-pleurotus/) page.
 
-**Authors:** Gabriel Felix da Silva, Philippe Solano Toledo da Silva and Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
+**Authors:** Gabriel Felix da Silva, Philippe Solano Toledo Silva and Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
 Thanks to my advisor, Prof. Dr. Ana Maria Rodrigues Cassiolato, to my colleagues at the FEIS/UNESP Microbiology Laboratory and DEFERS, and to our partners Funghi & Flora and Cogumelos Coloniais.

@@ -26,6 +26,6 @@ O tema desta edição foi *Unesp 50 Anos: Ciência, Formação, Inovação e Tra
 
 Depois da colheita do cogumelo-ostra, sobra um grande volume de substrato, o composto exaurido. Neste trabalho, analisamos a composição nutricional desse material para avaliar o seu uso como **biofertilizante**: um resíduo que volta ao campo como fonte de nutrientes para as plantas. Saiba mais na página do [projeto de pesquisa](/pesquisa/substrato-pleurotus/).
 
-**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo da Silva e Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
+**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo Silva e Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
 Agradeço à minha orientadora, Profa. Dra. Ana Maria Rodrigues Cassiolato, aos colegas do Laboratório de Microbiologia da FEIS/UNESP e do DEFERS, e aos parceiros Funghi & Flora e Cogumelos Coloniais.

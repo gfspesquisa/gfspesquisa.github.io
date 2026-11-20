@@ -26,6 +26,6 @@ El tema de esta edición fue *Unesp 50 Años: Ciencia, Formación, Innovación y
 
 Después de la cosecha de la seta ostra, queda un gran volumen de sustrato: el compost agotado. En este trabajo, analizamos su composición nutricional para evaluar su uso como **biofertilizante**: un residuo que vuelve al campo como fuente de nutrientes para las plantas. Más información en la página del [proyecto de investigación](/es/investigacion/substrato-pleurotus/).
 
-**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo da Silva y Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
+**Autores:** Gabriel Felix da Silva, Philippe Solano Toledo Silva y Ana Maria Rodrigues Cassiolato (FEIS/UNESP).
 
 Agradezco a mi orientadora, la Profa. Dra. Ana Maria Rodrigues Cassiolato, a mis compañeros del Laboratorio de Microbiología de la FEIS/UNESP y del DEFERS, y a nuestros socios Funghi & Flora y Cogumelos Coloniais.

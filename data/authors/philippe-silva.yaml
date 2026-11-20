@@ -1,0 +1,29 @@
+schema: hugoblox/author/v1
+slug: philippe-silva
+is_owner: false
+name:
+  display: Philippe Solano Toledo Silva
+  given: Philippe
+  family: Solano Toledo Silva
+role: Pós-doutorando
+bio: Engenheiro agrônomo e doutor em Ciência do Solo pela Faculdade de Ciências Agrárias e Veterinárias (FCAV/UNESP), em Jaboticabal. Desenvolve pesquisa de pós-doutorado na Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Tem experiência em saúde e microbiologia do solo, com ênfase em fungos micorrízicos arbusculares, bactérias promotoras de crescimento vegetal, adubação orgânica, agricultura tropical e recuperação de áreas degradadas. É coautor dos trabalhos sobre o composto exaurido de Pleurotus ostreatus e sobre consórcios microbianos na produção de mudas.
+user_groups:
+  - Colaboradores
+foto: philippe-silva.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/#!/defers
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/2776774986026988
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1892-3204
+interests:
+  - Fungos micorrízicos arbusculares
+  - Bactérias promotoras de crescimento vegetal
+  - Recuperação de áreas degradadas
+education:
+  - degree: Doutorado em Ciência do Solo
+    institution: FCAV/UNESP, Jaboticabal, Brasil.
+  - degree: Graduação em Engenharia Agronômica
+    institution: FCAV/UNESP, Jaboticabal, Brasil.
