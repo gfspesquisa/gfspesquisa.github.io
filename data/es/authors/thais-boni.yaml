@@ -1,0 +1,13 @@
+# Versión en español de este perfil (reemplaza los campos en portugués en el sitio en español).
+role: Orientadora
+bio: Doctora en Agronomía por la UNESP, campus de Ilha Solteira (2021). Investiga la recuperación de áreas degradadas en el Cerrado, con énfasis en la revegetación de suelos expuestos y el uso de residuos. Orienta a Gabriel en los trabajos sobre fertilización fosfatada en minirrosal y sobre datos de herbario de gramíneas.
+user_groups:
+  - Orientación
+interests:
+  - Recuperación de áreas degradadas
+  - Cerrado
+  - Revegetación y uso de residuos
+education:
+  - degree: Doctorado en Agronomía
+    institution: Universidade Estadual Paulista (UNESP), Ilha Solteira, Brasil
+    end: '2021'

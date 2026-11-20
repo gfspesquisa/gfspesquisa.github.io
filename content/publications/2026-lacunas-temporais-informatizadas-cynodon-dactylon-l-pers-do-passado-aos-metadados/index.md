@@ -4,7 +4,7 @@ authors:
   - me
   - Ana Maria Rodrigues Cassiolato
   - Camila Fernandes Ferreira APARECIDO
-  - Thais Soto Boni
+  - thais-boni
 date: 2026-06-01
 publication_types:
   - paper-conference

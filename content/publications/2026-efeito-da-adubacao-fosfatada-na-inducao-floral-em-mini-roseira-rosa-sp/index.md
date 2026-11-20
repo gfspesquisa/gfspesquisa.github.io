@@ -4,7 +4,7 @@ authors:
   - me
   - tiely-sakurai
   - julio-netto
-  - Thais Soto Boni
+  - thais-boni
   - Ana Maria Rodrigues Cassiolato
   - Angélica Cristina Fernandes Deus
 date: 2026-06-01

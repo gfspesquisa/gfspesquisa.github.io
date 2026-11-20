@@ -1,0 +1,28 @@
+schema: hugoblox/author/v1
+slug: thais-boni
+is_owner: false
+name:
+  display: Thaís Soto Boni
+  given: Thaís
+  family: Soto Boni
+role: Orientadora
+bio: Doutora em Agronomia pela UNESP, câmpus de Ilha Solteira (2021). Pesquisa a recuperação de áreas degradadas no Cerrado, com ênfase na revegetação de solos expostos e no uso de resíduos. Orienta Gabriel nos trabalhos sobre adubação fosfatada em mini-roseira e sobre dados de herbário de gramíneas.
+user_groups:
+  - Orientação
+foto: thais-boni.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4402360J5
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7201-6122
+interests:
+  - Recuperação de áreas degradadas
+  - Cerrado
+  - Revegetação e uso de resíduos
+education:
+  - degree: Doutorado em Agronomia
+    institution: Universidade Estadual Paulista (UNESP), Ilha Solteira, Brasil.
+    end: '2021'

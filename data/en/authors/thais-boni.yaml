@@ -1,0 +1,13 @@
+# English version of this profile (replaces the Portuguese fields on the English site).
+role: Supervisor
+bio: PhD in Agronomy from UNESP, Ilha Solteira campus (2021). She researches the recovery of degraded areas in the Cerrado, with emphasis on revegetation of exposed soils and the use of residues. She supervises Gabriel's work on phosphate fertilization in mini roses and on herbarium data for grasses.
+user_groups:
+  - Supervision
+interests:
+  - Recovery of degraded areas
+  - Cerrado
+  - Revegetation and use of residues
+education:
+  - degree: PhD in Agronomy
+    institution: São Paulo State University (UNESP), Ilha Solteira, Brazil
+    end: '2021'
