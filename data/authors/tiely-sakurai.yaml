@@ -5,15 +5,20 @@ name:
   display: Tiely Sakurai
   given: Tiely
   family: Sakurai
-role: Colaboradora
-bio: Colaboradora nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+role: Bolsista de Iniciação Científica (CNPq)
+bio: Graduanda em Ciências Biológicas (licenciatura e bacharelado) na UNESP, Faculdade de Engenharia de Ilha Solteira (FEIS), desde 2023, e bolsista de Iniciação Científica do CNPq. No Laboratório de Fisiologia e Metabolismo Vegetal (LFMV), pesquisa fitorremediação, investigando o potencial de espécies vegetais na remediação de solos contaminados por metais, com ênfase no boro e no cobre. Colabora nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
 user_groups:
   - Colaboradores
 foto: tiely-sakurai.jpg
 affiliations:
-  - name: UNESP Ilha Solteira
+  - name: FEIS-UNESP
     url: https://www.feis.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/5969257890074935
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0007-8964-8768
 interests:
-  - Adubação fosfatada
-  - Produção de mudas
-  - Floricultura
+  - Fisiologia vegetal
+  - Fitorremediação
+  - Tolerância das plantas ao estresse
