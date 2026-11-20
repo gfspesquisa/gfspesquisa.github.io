@@ -3,7 +3,7 @@ title: 'ASPECTOS QUÍMICOS DE ÁGUAS PLUVIAIS DO MUNICÍPIO DE ILHA SOLTEIRA-SP:
 authors:
   - me
   - Ana Maria Rodrigues Cassiolato
-  - Ligia Maria Manzini Costa
+  - ligia-costa
   - Camila Fernandes Ferreira Aparecido
 date: 2026-06-01
 publication_types:

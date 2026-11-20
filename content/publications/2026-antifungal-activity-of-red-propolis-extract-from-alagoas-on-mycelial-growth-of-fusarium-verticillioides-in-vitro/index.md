@@ -5,7 +5,7 @@ authors:
   - Arla Cruz
   - Higor Silva
   - Ana Maria Rodrigues Cassiolato
-  - Ligia Maria Manzine Costa
+  - ligia-costa
   - paulo-ceresini
 date: 2026-11-04
 publication_types:

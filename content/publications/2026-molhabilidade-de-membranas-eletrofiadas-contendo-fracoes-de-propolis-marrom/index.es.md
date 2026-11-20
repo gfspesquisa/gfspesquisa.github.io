@@ -3,7 +3,7 @@ title: MOLHABILIDADE DE MEMBRANAS ELETROFIADAS CONTENDO FRAÇÕES DE PRÓPOLIS M
 authors:
   - me
   - Fernando Rogério de Paula
-  - Ligia Maria Manzine Costa
+  - ligia-costa
 date: 2025-06-01
 publication_types:
   - paper-conference

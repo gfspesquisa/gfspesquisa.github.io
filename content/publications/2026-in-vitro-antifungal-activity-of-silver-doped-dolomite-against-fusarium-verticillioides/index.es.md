@@ -5,7 +5,7 @@ authors:
   - Emerson da Cruz Silva Dias
   - Caroline da Cruz Martines
   - Ana Maria Rodrigues Cassiolato
-  - Ligia Maria Manzine Costa
+  - ligia-costa
   - Gabriel Madoglio Favara
 date: 2026-11-04
 publication_types:

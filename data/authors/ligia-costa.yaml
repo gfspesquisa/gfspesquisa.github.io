@@ -1,0 +1,26 @@
+schema: hugoblox/author/v1
+slug: ligia-costa
+is_owner: false
+name:
+  display: Ligia Maria Manzine Costa
+  given: Ligia Maria
+  family: Manzine Costa
+role: Orientadora
+bio: Professora da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP), no Departamento de Física e Química. Atua no desenvolvimento de biomateriais e materiais poliméricos, como nanocompósitos de celulose, filmes e membranas eletrofiadas de poli(ε-caprolactona) e o aproveitamento de resíduos de própolis em materiais bioativos. Orienta Gabriel nos trabalhos com biomateriais e produtos naturais contra fungos fitopatogênicos, como a dolomita dopada com prata e a própolis vermelha de Alagoas.
+user_groups:
+  - Orientação
+foto: ligia-costa.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/
+links:
+  - icon: at-symbol
+    url: mailto:ligia.manzine@unesp.br
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/1886281098171035
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-6483-7633
+interests:
+  - Biomateriais
+  - Polímeros e nanocompósitos
+  - Própolis e materiais bioativos

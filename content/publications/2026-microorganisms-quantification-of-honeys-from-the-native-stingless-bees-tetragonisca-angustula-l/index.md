@@ -2,7 +2,7 @@
 title: Microorganisms Quantification Of Honeys From The Native Stingless Bees (Tetragonisca Angustula) L.
 authors:
   - me
-  - Ligia Maria Manzine Costa
+  - ligia-costa
   - Ana Maria Rodrigues Cassiolato
 date: 2025-11-01
 publication_types:

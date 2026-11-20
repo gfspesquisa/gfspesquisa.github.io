@@ -1,7 +1,7 @@
 ---
 title: Compósito Dolomita/Prata Como Alternativa Antifúngica Promissora Frente A Curvularia Lunata
 authors:
-  - Ligia Maria Manzine Costa
+  - ligia-costa
   - me
   - ana-maria
 date: 2025-11-01
