@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: julio-netto
+is_owner: false
+name:
+  display: Júlio Henrique Ribeiro Amâncio Netto
+  given: Júlio Henrique
+  family: Ribeiro Amâncio Netto
+role: Colaborador
+bio: Colaborador nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+user_groups:
+  - Colaboradores
+foto: julio-netto.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/
+interests:
+  - Adubação fosfatada
+  - Produção de mudas
+  - Floricultura
