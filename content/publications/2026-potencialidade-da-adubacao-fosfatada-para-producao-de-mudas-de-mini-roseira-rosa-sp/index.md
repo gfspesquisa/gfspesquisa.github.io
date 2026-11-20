@@ -6,7 +6,7 @@ authors:
   - julio-netto
   - thais-boni
   - Ana Maria Rodrigues Cassiolato
-  - Angélica Cristina Fernandes Deus
+  - angelica-deus
 date: 2026-06-01
 publication_types:
   - paper-conference

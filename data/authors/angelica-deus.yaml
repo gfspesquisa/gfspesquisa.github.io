@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: angelica-deus
+is_owner: false
+name:
+  display: Angélica Cristina Fernandes Deus
+  given: Angélica Cristina
+  family: Fernandes Deus
+role: Orientadora
+bio: Pesquisadora da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP) na área de Agronomia. Atua com plantas de cobertura, fertilidade biológica do solo, sistema plantio direto no Cerrado e corretivos silicatados. Orienta Gabriel nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+user_groups:
+  - Orientação
+foto: angelica-deus.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4254899A9
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-3807-7308
+interests:
+  - Fertilidade do solo
+  - Plantas de cobertura e plantio direto
+  - Corretivos silicatados
