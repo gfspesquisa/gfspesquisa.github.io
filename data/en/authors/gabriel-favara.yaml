@@ -1,8 +1,8 @@
 # English version of this profile (replaces the Portuguese fields on the English site).
-role: Collaborating professor
-bio: Professor at the School of Engineering of Ilha Solteira (FEIS/UNESP), Department of Plant Protection, Rural Engineering and Soils, with a PhD in Agronomy from the University of São Paulo. He works in plant protection, researching whitefly-transmitted plant viruses, insect endosymbionts and RNA interference for pest control. He collaborates on the studies of the antifungal activity of silver-doped materials against Fusarium verticillioides.
+role: Supervisor
+bio: Professor at the School of Engineering of Ilha Solteira (FEIS/UNESP), Department of Plant Protection, Rural Engineering and Soils, with a PhD in Agronomy from the University of São Paulo. He works in plant protection, researching whitefly-transmitted plant viruses, insect endosymbionts and RNA interference for pest control. He supervises Gabriel's work on the antifungal activity of silver-doped materials against Fusarium verticillioides.
 user_groups:
-  - Collaborators
+  - Supervision
 interests:
   - Plant protection
   - Plant viruses and insect vectors

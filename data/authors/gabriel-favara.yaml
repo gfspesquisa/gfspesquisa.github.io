@@ -5,10 +5,10 @@ name:
   display: Gabriel Madoglio Favara
   given: Gabriel
   family: Madoglio Favara
-role: Professor colaborador
-bio: Professor da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP), no Departamento de Fitossanidade, Engenharia Rural e Solos, e doutor em Agronomia pela Universidade de São Paulo. Atua em fitossanidade, com pesquisas sobre vírus de plantas transmitidos por moscas-brancas, endossimbiontes de insetos e RNA de interferência no controle de pragas. Colabora nos trabalhos sobre a atividade antifúngica de materiais dopados com prata contra Fusarium verticillioides.
+role: Orientador
+bio: Professor da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP), no Departamento de Fitossanidade, Engenharia Rural e Solos, e doutor em Agronomia pela Universidade de São Paulo. Atua em fitossanidade, com pesquisas sobre vírus de plantas transmitidos por moscas-brancas, endossimbiontes de insetos e RNA de interferência no controle de pragas. Orienta Gabriel nos trabalhos sobre a atividade antifúngica de materiais dopados com prata contra Fusarium verticillioides.
 user_groups:
-  - Colaboradores
+  - Orientação
 foto: gabriel-favara.jpg
 affiliations:
   - name: FEIS-UNESP
