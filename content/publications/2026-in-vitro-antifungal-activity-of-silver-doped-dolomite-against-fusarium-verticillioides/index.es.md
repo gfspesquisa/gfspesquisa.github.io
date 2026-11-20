@@ -2,7 +2,7 @@
 title: 'In vitro antifungal activity of silver-doped dolomite against Fusarium verticillioides'
 authors:
   - me
-  - Emerson da Cruz Silva Dias
+  - emerson-dias
   - Caroline da Cruz Martines
   - Ana Maria Rodrigues Cassiolato
   - ligia-costa

@@ -1,0 +1,22 @@
+schema: hugoblox/author/v1
+slug: emerson-dias
+is_owner: false
+name:
+  display: Emerson da Silva Cruz Dias
+  given: Emerson
+  family: da Silva Cruz Dias
+role: Mestrando em Agronomia (Fitopatologia)
+bio: Mestrando em Agronomia (Fitopatologia) no Programa de Pós-Graduação em Agronomia da UNESP Ilha Solteira, no Departamento de Fitossanidade, Engenharia Rural e Solos (DEFERS). Pesquisa virologia vegetal, com foco no uso de RNA de interferência (dsRNA) no controle de patógenos, sob orientação do Prof. Dr. Gabriel Madoglio Favara. Graduado em Ciências Biológicas (bacharelado e licenciatura) pela FEIS/UNESP. Colabora nos trabalhos sobre a atividade antifúngica de materiais dopados com prata contra Fusarium verticillioides.
+user_groups:
+  - Colaboradores
+foto: emerson-dias.jpg
+affiliations:
+  - name: FEIS-UNESP
+    url: https://www.feis.unesp.br/#!/defers
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/2289791037340878
+interests:
+  - Virologia vegetal
+  - RNA de interferência (dsRNA)
+  - Fitopatologia
