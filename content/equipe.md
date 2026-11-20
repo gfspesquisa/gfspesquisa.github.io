@@ -10,6 +10,9 @@ sections:
       title: Equipe e colaboradores
       subtitle: ''
       text: Pessoas que fazem parte dos projetos de pesquisa.
+      # Ordem alfabética pelo nome de exibição (display) de cada pessoa.
+      sort_by: title
+      sort_ascending: true
       user_groups:
         - Pesquisador responsável
         - Orientação

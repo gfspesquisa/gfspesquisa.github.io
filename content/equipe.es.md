@@ -11,6 +11,9 @@ sections:
       title: Equipo y colaboradores
       subtitle: ''
       text: Personas que participan en los proyectos de investigación.
+      # Ordem alfabética pelo nome de exibição (display) de cada pessoa.
+      sort_by: title
+      sort_ascending: true
       user_groups:
         - Investigador responsable
         - Orientación

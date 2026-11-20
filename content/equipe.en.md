@@ -11,6 +11,9 @@ sections:
       title: Team and collaborators
       subtitle: ''
       text: People involved in the research projects.
+      # Ordem alfabética pelo nome de exibição (display) de cada pessoa.
+      sort_by: title
+      sort_ascending: true
       user_groups:
         - Principal researcher
         - Supervision
