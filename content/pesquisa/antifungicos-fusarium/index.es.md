@@ -8,7 +8,7 @@ tags:
   - Aspergillus fumigatus
   - Resistencia a fungicidas
 image:
-  caption: 'Dolomita dopada con plata frente a Fusarium verticillioides, en dosis de 175 a 700 ppm.'
+  caption: 'Dióxido de silicio con plata frente a Fusarium verticillioides, en dosis de 175 a 700 ppm.'
   focal_point: Center
   preview_only: true
 
@@ -21,11 +21,11 @@ Los fitopatógenos emergentes se describen como patógenos que: (i) han sido des
 
 En los ensayos *in vitro*, el hongo crece en placas con medio de cultivo que recibe dosis crecientes del material evaluado. Midiendo el diámetro de las colonias, calculamos cuánto inhibe el crecimiento cada dosis.
 
-![Fusarium verticillioides en placas con dolomita pura, de 0 a 700 ppm](dolomita-pura.jpg "Dolomita pura (sin plata): el hongo crece normalmente en todas las dosis.")
+![Fusarium verticillioides en placas con dióxido de silicio y plata, de 0 a 700 ppm](silicio-prata-placas-brancas.jpg "Fusarium verticillioides en placas con dióxido de silicio y plata, de 0 a 700 ppm.")
 
-![Fusarium verticillioides en placas con dolomita dopada con plata, de 0 a 700 ppm](featured.jpg "Dolomita dopada con plata: el crecimiento disminuye a medida que aumenta la dosis.")
+![Fusarium verticillioides en placas amarillas con dióxido de silicio y plata, de 0 a 700 ppm](featured.jpg "Dióxido de silicio con plata: el crecimiento del hongo disminuye a medida que aumenta la dosis.")
 
-![Ensayo dosis-respuesta con placas de 0 a 150 ppm](dose-resposta.jpg "Ensayo dosis-respuesta de crecimiento micelial, de 0 a 150 ppm.")
+![Ensayo con extracto de propóleo rojo en placas de 0 a 150 ppm](propolis-vermelha-dose-resposta.jpg "Extracto de propóleo rojo: ensayo dosis-respuesta de crecimiento micelial, de 0 a 150 ppm. El color rojizo proviene del propio extracto.")
 
 ![Detalle del micelio en una placa del ensayo](micelio.jpg "Detalle del crecimiento micelial a partir del disco de inóculo.")
 

@@ -8,7 +8,7 @@ tags:
   - Aspergillus fumigatus
   - Fungicide resistance
 image:
-  caption: 'Silver-doped dolomite against Fusarium verticillioides, at doses from 175 to 700 ppm.'
+  caption: 'Silicon dioxide with silver against Fusarium verticillioides, at doses from 175 to 700 ppm.'
   focal_point: Center
   preview_only: true
 
@@ -21,11 +21,11 @@ Emerging plant pathogens are described as pathogens that: (i) have been recently
 
 In the *in vitro* assays, the fungus grows on plates with culture medium containing increasing doses of the tested material. By measuring colony diameter, we calculate how much each dose inhibits growth.
 
-![Fusarium verticillioides on plates with pure dolomite, from 0 to 700 ppm](dolomita-pura.jpg "Pure dolomite (no silver): the fungus grows normally at all doses.")
+![Fusarium verticillioides on plates with silicon dioxide and silver, from 0 to 700 ppm](silicio-prata-placas-brancas.jpg "Fusarium verticillioides on plates with silicon dioxide and silver, from 0 to 700 ppm.")
 
-![Fusarium verticillioides on plates with silver-doped dolomite, from 0 to 700 ppm](featured.jpg "Silver-doped dolomite: growth decreases as the dose increases.")
+![Fusarium verticillioides on yellow plates with silicon dioxide and silver, from 0 to 700 ppm](featured.jpg "Silicon dioxide with silver: fungal growth decreases as the dose increases.")
 
-![Dose-response assay with plates from 0 to 150 ppm](dose-resposta.jpg "Dose-response mycelial growth assay, from 0 to 150 ppm.")
+![Assay with red propolis extract on plates from 0 to 150 ppm](propolis-vermelha-dose-resposta.jpg "Red propolis extract: dose-response mycelial growth assay, from 0 to 150 ppm. The reddish colour comes from the extract itself.")
 
 ![Close-up of mycelium on an assay plate](micelio.jpg "Close-up of mycelial growth from the inoculum disc.")
 
