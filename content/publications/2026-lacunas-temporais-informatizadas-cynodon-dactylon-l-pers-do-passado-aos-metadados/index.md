@@ -3,7 +3,7 @@ title: 'LACUNAS TEMPORAIS INFORMATIZADAS: CYNODON DACTYLON (L.) PERS. DO PASSADO
 authors:
   - me
   - Ana Maria Rodrigues Cassiolato
-  - Camila Fernandes Ferreira APARECIDO
+  - camila-aparecido
   - thais-boni
 date: 2026-06-01
 publication_types:

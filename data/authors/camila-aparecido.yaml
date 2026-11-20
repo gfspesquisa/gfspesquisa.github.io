@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: camila-aparecido
+is_owner: false
+name:
+  display: Camila Fernandes Ferreira Aparecido
+  given: Camila
+  family: Fernandes Ferreira Aparecido
+role: Orientadora
+bio: Orienta Gabriel nos trabalhos sobre a química das águas pluviais de Ilha Solteira (SP) e sobre lacunas nos dados de herbário de Cynodon dactylon.
+user_groups:
+  - Orientação
+foto: camila-aparecido.jpg
+affiliations:
+  - name: UNESP Ilha Solteira
+    url: https://www.feis.unesp.br/
+interests:
+  - Qualidade da água
+  - Dados de herbário

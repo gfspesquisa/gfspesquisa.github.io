@@ -4,7 +4,7 @@ authors:
   - me
   - Ana Maria Rodrigues Cassiolato
   - ligia-costa
-  - Camila Fernandes Ferreira Aparecido
+  - camila-aparecido
 date: 2026-06-01
 publication_types:
   - paper-conference

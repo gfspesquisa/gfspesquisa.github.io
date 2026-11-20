@@ -1,0 +1,8 @@
+# English version of this profile (replaces the Portuguese fields on the English site).
+role: Supervisor
+bio: She supervises Gabriel's work on the chemistry of rainwater in Ilha Solteira (SP) and on gaps in herbarium data for Cynodon dactylon.
+user_groups:
+  - Supervision
+interests:
+  - Water quality
+  - Herbarium data
