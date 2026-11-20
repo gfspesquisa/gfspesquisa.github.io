@@ -3,7 +3,7 @@ title: 'In vitro antifungal activity of silver-doped dolomite against Fusarium v
 authors:
   - me
   - emerson-dias
-  - Caroline da Cruz Martines
+  - caroline-martines
   - Ana Maria Rodrigues Cassiolato
   - ligia-costa
   - gabriel-favara

@@ -3,7 +3,7 @@ title: ATIVIDADE ANTIFÚNGICA DE DIÓXIDO DE SILÍCIO DOPADO COM PRATA NO CRESCI
 authors:
   - me
   - emerson-dias
-  - CAROLINE DA CRUZ MARTINES
+  - caroline-martines
   - ANA MARIA RODRIGUES CASSIOLATO
   - ligia-costa
   - gabriel-favara

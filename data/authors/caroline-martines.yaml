@@ -1,0 +1,24 @@
+schema: hugoblox/author/v1
+slug: caroline-martines
+is_owner: false
+name:
+  display: Caroline da Cruz Martines
+  given: Caroline
+  family: da Cruz Martines
+role: Doutoranda em Proteção de Plantas
+bio: Engenheira agrônoma pelo Centro Universitário Católico Salesiano Auxilium, mestre e doutoranda em Proteção de Plantas pela Faculdade de Ciências Agronômicas (FCA/UNESP), em Botucatu. É membro do Laboratório de Virologia Vegetal e Interação Vírus-Vetor-Planta (LAVIV) e tem experiência em fitopatologia, com ênfase em virologia vegetal e biologia molecular. Colabora nos trabalhos sobre a atividade antifúngica de materiais dopados com prata contra Fusarium verticillioides.
+user_groups:
+  - Colaboradores
+foto: caroline-martines.jpg
+affiliations:
+  - name: FCA-UNESP
+    url: https://www.fca.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/4505169973431261
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-9821-144X
+interests:
+  - Virologia vegetal
+  - Biologia molecular
+  - Fitopatologia
