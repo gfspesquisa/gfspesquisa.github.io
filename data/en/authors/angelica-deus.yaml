@@ -1,9 +1,18 @@
 # English version of this profile (replaces the Portuguese fields on the English site).
 role: Supervisor
-bio: Researcher at the School of Engineering of Ilha Solteira (FEIS/UNESP) in Agronomy. She works on cover crops, soil biological fertility, no-tillage systems in the Cerrado and silicate soil amendments. She supervises Gabriel's work on phosphate fertilization for seedling production and flower induction in mini roses (Rosa sp.).
+bio: Assistant professor at the School of Engineering of Ilha Solteira (FEIS/UNESP). She holds a degree in Agronomy from UNESP Ilha Solteira, an MSc and PhD in Agronomy from UNESP Botucatu, with a sandwich doctorate at the University of New England (Australia), and a postdoctorate from UNESP. She works on soil fertility, fertilization, use of residues in agriculture and silicon in soil, and is a member of the Silicon in the Soil-Plant System research group (SisPlant). She supervises Gabriel's work on phosphate fertilization for seedling production and flower induction in mini roses (Rosa sp.).
 user_groups:
   - Supervision
 interests:
-  - Soil fertility
-  - Cover crops and no-tillage
-  - Silicate soil amendments
+  - Soil fertility and fertilization
+  - Use of residues in agriculture
+  - Silicon in soil
+education:
+  - degree: Postdoctorate
+    institution: São Paulo State University (UNESP), Brazil
+  - degree: PhD in Agronomy, with a sandwich doctorate at the University of New England (Australia)
+    institution: UNESP, Botucatu campus, Brazil
+  - degree: MSc in Agronomy
+    institution: UNESP, Botucatu campus, Brazil
+  - degree: BSc in Agronomy
+    institution: UNESP, Ilha Solteira campus, Brazil

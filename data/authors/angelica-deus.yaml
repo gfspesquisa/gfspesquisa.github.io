@@ -6,7 +6,7 @@ name:
   given: Angélica Cristina
   family: Fernandes Deus
 role: Orientadora
-bio: Pesquisadora da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP) na área de Agronomia. Atua com plantas de cobertura, fertilidade biológica do solo, sistema plantio direto no Cerrado e corretivos silicatados. Orienta Gabriel nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+bio: Professora assistente doutora da Faculdade de Engenharia de Ilha Solteira (FEIS/UNESP). Engenheira agrônoma pela UNESP Ilha Solteira, com mestrado e doutorado em Agronomia pela UNESP Botucatu, doutorado-sanduíche na University of New England (Austrália) e pós-doutorado pela UNESP. Atua em fertilidade do solo, adubação, uso de resíduos na agricultura e silício no solo, e é membro do grupo de pesquisa Silício no Sistema Solo-Planta (SisPlant). Orienta Gabriel nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
 user_groups:
   - Orientação
 foto: angelica-deus.jpg
@@ -15,10 +15,19 @@ affiliations:
     url: https://www.feis.unesp.br/
 links:
   - icon: academicons/lattes
-    url: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4254899A9
+    url: http://lattes.cnpq.br/8973723582149280
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-3807-7308
 interests:
-  - Fertilidade do solo
-  - Plantas de cobertura e plantio direto
-  - Corretivos silicatados
+  - Fertilidade do solo e adubação
+  - Uso de resíduos na agricultura
+  - Silício no solo
+education:
+  - degree: Pós-doutorado
+    institution: Universidade Estadual Paulista (UNESP), Brasil.
+  - degree: Doutorado em Agronomia, com doutorado-sanduíche na University of New England (Austrália)
+    institution: UNESP, câmpus de Botucatu, Brasil.
+  - degree: Mestrado em Agronomia
+    institution: UNESP, câmpus de Botucatu, Brasil.
+  - degree: Graduação em Agronomia
+    institution: UNESP, câmpus de Ilha Solteira, Brasil.
