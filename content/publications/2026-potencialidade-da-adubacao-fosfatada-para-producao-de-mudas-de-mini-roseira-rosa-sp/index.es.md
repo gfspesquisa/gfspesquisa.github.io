@@ -2,7 +2,7 @@
 title: POTENCIALIDADE DA ADUBAÇÃO FOSFATADA PARA PRODUÇÃO DE MUDAS DE MINI-ROSEIRA (ROSA SP)
 authors:
   - me
-  - Tiely Sakurai
+  - tiely-sakurai
   - julio-netto
   - Thaís Soto Boni
   - Ana Maria Rodrigues Cassiolato

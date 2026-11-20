@@ -1,0 +1,19 @@
+schema: hugoblox/author/v1
+slug: tiely-sakurai
+is_owner: false
+name:
+  display: Tiely Sakurai
+  given: Tiely
+  family: Sakurai
+role: Colaboradora
+bio: Colaboradora nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+user_groups:
+  - Colaboradores
+foto: tiely-sakurai.jpg
+affiliations:
+  - name: UNESP Ilha Solteira
+    url: https://www.feis.unesp.br/
+interests:
+  - Adubação fosfatada
+  - Produção de mudas
+  - Floricultura

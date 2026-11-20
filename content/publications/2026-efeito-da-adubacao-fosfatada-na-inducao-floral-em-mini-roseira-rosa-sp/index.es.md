@@ -2,7 +2,7 @@
 title: Efeito da adubação fosfatada na indução floral em mini-roseira (Rosa sp)
 authors:
   - me
-  - Tiely Sakurai
+  - tiely-sakurai
   - julio-netto
   - Thais Soto Boni
   - Ana Maria Rodrigues Cassiolato

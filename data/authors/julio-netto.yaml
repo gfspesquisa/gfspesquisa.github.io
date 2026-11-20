@@ -5,15 +5,21 @@ name:
   display: Júlio Henrique Ribeiro Amâncio Netto
   given: Júlio Henrique
   family: Ribeiro Amâncio Netto
-role: Colaborador
-bio: Colaborador nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
+role: Bolsista de Iniciação Científica (CNPq)
+bio: Graduando em Ciências Biológicas (licenciatura e bacharelado) na UNESP, câmpus de Ilha Solteira, e bolsista de Iniciação Científica do CNPq. Realiza atividades no Laboratório de Fisiologia do Metabolismo Vegetal (LFMV) e colabora nos trabalhos sobre adubação fosfatada na produção de mudas e na indução floral de mini-roseira (Rosa sp.).
 user_groups:
   - Colaboradores
 foto: julio-netto.jpg
 affiliations:
-  - name: FEIS-UNESP
+  - name: UNESP Ilha Solteira
     url: https://www.feis.unesp.br/
+links:
+  - icon: academicons/lattes
+    url: http://lattes.cnpq.br/1994573239569985
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0006-3322-7473
 interests:
   - Adubação fosfatada
   - Produção de mudas
   - Floricultura
+  - Fisiologia vegetal
