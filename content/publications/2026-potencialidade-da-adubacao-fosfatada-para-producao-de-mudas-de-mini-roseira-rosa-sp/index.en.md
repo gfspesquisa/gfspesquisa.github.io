@@ -3,7 +3,7 @@ title: POTENCIALIDADE DA ADUBAÇÃO FOSFATADA PARA PRODUÇÃO DE MUDAS DE MINI-R
 authors:
   - me
   - Tiely Sakurai
-  - Júlio Henrique Amancio Ribeiro Netto
+  - julio-netto
   - Thaís Soto Boni
   - Ana Maria Rodrigues Cassiolato
   - Angélica Cristina Fernandes Deus
